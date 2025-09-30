@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "4256ab5d321eadc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "baddbb09d6285b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a706dc73735ac6b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2.5,
+                  "nodeSizeMultiplier": 0.850870768229167,
+                  "lineSizeMultiplier": 1.70621744791667,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 161,
+                  "scale": 0.5803714936888545,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94e469dde4d5bc4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "476882e8dc021800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439ee0e01b209ff1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7811add9876526d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eb8f128527a94074",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "589c67074cc3a5d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f188d6dd2610fd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea40e608a6a5dd70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zack and His Zipper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Zack and His Zipper 的反向链接列表"
+            }
+          },
+          {
+            "id": "f54953f7664ab5a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "古力小超人（1岁6个月）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "古力小超人（1岁6个月） 的出链列表"
+            }
+          },
+          {
+            "id": "3272946e6cf3a159",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "94af93032a72b8ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "古力小超人（1岁6个月）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "古力小超人（1岁6个月） 的大纲"
+            }
+          },
+          {
+            "id": "b525a3a015de4687",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2a706dc73735ac6b",
+  "lastOpenFiles": [
+    "Ally and the apple.md",
+    "未命名.base",
+    "carry me（2岁）.md",
+    "2-3岁书单.md",
+    "买了还不知道啥时候能看系列.md",
+    "Zack and His Zipper.md",
+    "Yolanda and the Yo-Yo.md",
+    "Xavier Gets and X-Ray.md",
+    "Wes and the Watermelon.md",
+    "Vic, Val, and the Vacuum.md",
+    "Umberto and the Umbrella.md",
+    "Tere and the Tomato.md",
+    "Sam in the Sun.md",
+    "Rex and the Rake.md",
+    "Quinn and the Quilt.md",
+    "Paco and the Piano.md",
+    "Oz and the Octopus.md",
+    "Nell and the Nest.md",
+    "Mac and the Magnificent Masks.md",
+    "Lola and the Lock.md",
+    "Kaya and the Kayak.md",
+    "Jana, Jen, and the Jellyfish.md",
+    "Ikiaq and the Igloo.md",
+    "Hanna Has a Hammer.md",
+    "Gabby and Her Goat.md",
+    "Feng, Finn, and the Fan.md",
+    "Emma and Her Elephant.md",
+    "语文启蒙",
+    "未命名.canvas",
+    "数学启蒙",
+    "英语启蒙"
+  ]
+}
