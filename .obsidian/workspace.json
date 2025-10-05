@@ -4,54 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "baddbb09d6285b37",
+        "id": "88b53d50d015cb16",
         "type": "tabs",
         "children": [
           {
-            "id": "2a706dc73735ac6b",
+            "id": "269f5b87e5079527",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": -2.5,
-                  "nodeSizeMultiplier": 0.850870768229167,
-                  "lineSizeMultiplier": 1.70621744791667,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 161,
-                  "scale": 0.5803714936888545,
-                  "close": true
-                }
+                "file": "英语启蒙/Max and Nana Go to the Park.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "Max and Nana Go to the Park"
+            }
+          },
+          {
+            "id": "5c3d61709ddbd8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语启蒙/Hello.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "589c67074cc3a5d4",
@@ -210,35 +195,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a706dc73735ac6b",
+  "active": "439ee0e01b209ff1",
   "lastOpenFiles": [
-    "Ally and the apple.md",
+    "英语启蒙/Max and Nana Go to the Park.md",
+    "英语启蒙/Hello.md",
+    "英语启蒙/5511759549780_.pic_hd.jpg",
+    "英语启蒙/5501759549778_.pic_hd.jpg",
+    "英语启蒙/5481759549073_.pic_hd.jpg",
+    "英语启蒙/5401759548843_.pic_hd.jpg",
+    "英语启蒙/古力小超人（1岁6个月）.md",
+    "英语启蒙/lovevery（6个月）.md",
+    "英语启蒙/0-1岁书单.md",
+    "英语启蒙/Mac and the Magnificent Masks.md",
+    "英语启蒙/1-2岁书单.md",
+    "英语启蒙/Ally and the apple.md",
     "未命名.base",
-    "carry me（2岁）.md",
-    "2-3岁书单.md",
-    "买了还不知道啥时候能看系列.md",
-    "Zack and His Zipper.md",
-    "Yolanda and the Yo-Yo.md",
-    "Xavier Gets and X-Ray.md",
-    "Wes and the Watermelon.md",
-    "Vic, Val, and the Vacuum.md",
-    "Umberto and the Umbrella.md",
-    "Tere and the Tomato.md",
-    "Sam in the Sun.md",
-    "Rex and the Rake.md",
-    "Quinn and the Quilt.md",
-    "Paco and the Piano.md",
-    "Oz and the Octopus.md",
-    "Nell and the Nest.md",
-    "Mac and the Magnificent Masks.md",
-    "Lola and the Lock.md",
-    "Kaya and the Kayak.md",
-    "Jana, Jen, and the Jellyfish.md",
-    "Ikiaq and the Igloo.md",
-    "Hanna Has a Hammer.md",
-    "Gabby and Her Goat.md",
-    "Feng, Finn, and the Fan.md",
-    "Emma and Her Elephant.md",
+    "英语启蒙/carry me（2岁）.md",
+    "英语启蒙/2-3岁书单.md",
+    "英语启蒙/买了还不知道啥时候能看系列.md",
+    "英语启蒙/Zack and His Zipper.md",
+    "英语启蒙/Yolanda and the Yo-Yo.md",
+    "英语启蒙/Xavier Gets and X-Ray.md",
+    "英语启蒙/Wes and the Watermelon.md",
+    "英语启蒙/Vic, Val, and the Vacuum.md",
+    "英语启蒙/Umberto and the Umbrella.md",
+    "英语启蒙/Tere and the Tomato.md",
+    "英语启蒙/Sam in the Sun.md",
+    "英语启蒙/Rex and the Rake.md",
+    "英语启蒙/Quinn and the Quilt.md",
+    "英语启蒙/Paco and the Piano.md",
+    "英语启蒙/Oz and the Octopus.md",
+    "英语启蒙/Nell and the Nest.md",
+    "英语启蒙/Lola and the Lock.md",
     "语文启蒙",
     "未命名.canvas",
     "数学启蒙",
