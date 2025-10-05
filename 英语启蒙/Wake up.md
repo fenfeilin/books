@@ -5,43 +5,11 @@
 ### 拓展带读
  
 #### 词汇拓展：
-动物
+除了书中出现的 frog（青蛙）、hedgehog（刺猬）、snake（蛇），还可以拓展 bear（熊）、ant（蚂蚁）等动物词汇。
 #### 句型拓展：
-1. wake up，可以用于早上叫醒宝宝
-2. xx are sleeping
+- **核心句型**：What’s that noise?（那是什么声音？）… are sleeping.（…… 在睡觉。）Wake up!（醒来！）It’s spring.（春天到了。）
+- **拓展句型**：可以根据绘本内容和孩子的英语水平，适当拓展一些句型，如 “Can you find the…?”（你能找到…… 吗？）“What do you think of…? ”（你觉得…… 怎么样？）“Let’s… ”（让我们……）等。例如，“Can you find the frog? ”（你能找到青蛙吗？）“What do you think of the hedgehog? ”（你觉得刺猬怎么样？）“Let’s wake up the bear. ”（让我们叫醒熊吧。）
 #### 场景拓展：
-早上：童谣+
-晚上：lovevery
+- **家庭场景**：可以模拟书中叫动物起床的场景，让孩子叫家人起床，运用句型 “Wake up, It’s time to get up.”（醒醒，该起床了。）还可以在睡前让孩子回顾一天的活动，用英语说 “Today we…, and then we… ”（今天我们……，然后我们……）
 
 ### 熏听
-http://xhslink.com/o/4E9SmnaNxtS 
-
-Hello! I’m Leo. I love fishing.
-你好！我是利奥。我喜欢钓鱼。
- 
-Hello! I’m Bella. I love cooking.
-你好！我是贝拉。我喜欢烹饪。
- 
-Hello! I’m Jojo. I love dancing.
-你好！我是乔乔。我喜欢跳舞。
- 
-Hello! I’m Teeny. I love singing.
-你好！我是蒂尼。我喜欢唱歌。
- 
-Hello! I’m Ducky. I love reading.
-你好！我是达基。我喜欢阅读。
- 
-Gyuri! Help us!
-古力！救救我们！
- 
-I’m Gyuri the Superhero!
-我是超级英雄古力！
- 
-Pull Jojo out! Pull Bella out!
-把乔乔拉出来！把贝拉拉出来！
- 
-Pull Leo out! Pull everybody out!
-把利奥拉出来！把大家都拉出来！
-
-We love sliding!
-我们喜欢滑滑梯！

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/Wake up.md",
+                "file": "英语启蒙/Hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wake up"
+              "title": "Hello"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语启蒙/Wake up.md",
+                "file": "英语启蒙/Hello.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Wake up 的反向链接列表"
+              "title": "Hello 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语启蒙/Wake up.md",
+                "file": "英语启蒙/Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Wake up 的出链列表"
+              "title": "Hello 的出链列表"
             }
           },
           {
@@ -197,8 +197,8 @@
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
     "英语启蒙/古力小超人（1岁6个月）.md",
-    "英语启蒙/Hello.md",
     "英语启蒙/Wake up.md",
+    "英语启蒙/Hello.md",
     "英语启蒙/go away shadow.md",
     "英语启蒙/hide and seek.md",
     "英语启蒙/5411759548845_.pic_hd.jpg",

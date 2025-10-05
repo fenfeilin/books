@@ -7,10 +7,39 @@
 ### 拓展带读
  
 #### 词汇拓展：
-除了书中的词汇，还可以拓展公园游乐设施相关词汇，如slide（滑梯）、swing（秋千）、seesaw（跷跷板）等。
+1. 核心基础词汇（绘本高频出现）​
+
+- 动作 / 物品类：fishing（钓鱼）、cooking（做饭）、dancing（跳舞）、cape（披风）、boots（靴子）、tail（尾巴）​
+
+- 场景类：playground（游乐场）、seesaw（跷跷板）、sandpit（沙坑）、slide（滑梯）、swings（秋千）​
+
+2. 拓展延伸词汇（结合场景关联）​
+
+- 游乐设施：climber（攀爬架）、merry-go-round（旋转木马）​
+
+- 物品延伸：picnic basket（野餐篮）、music player（音乐播放器）、microphone（麦克风）、bucket（水桶）​
+
+- 互动词汇：hello（你好）、hi（嗨）、friend（朋友）
 #### 句型拓展：
-1. I'm xx
-2. i love xx
+1. 核心句型（绘本反复出现，优先掌握）​
+
+- 句型 1：Hello, I'm...（你好，我是……）​
+- 示例：Hello, I'm Gyuri.（你好，我是古力。）​
+- 句型 2：I love...（我喜欢……）​
+
+- 示例：I love fishing.（我喜欢钓鱼。）​
+
+- 拓展：关联生活喜好，如 “I love swing.”（我喜欢秋千。）​
+
+2. 拓展句型（衔接基础句型，提升互动）​
+
+- 问候类：Hello, [名字]!（你好，[名字]！）​
+
+- 场景：教师手持动物手偶说 “Hello, Jojo!”，幼儿回应 “Hello, teacher!”​
+
+- 询问类：Do you like...?（你喜欢…… 吗？）​
+
+- 示例：Do you like the slide?（你喜欢滑梯吗？）
 #### 场景拓展：
 带宝宝去玩滑滑梯，能用上lovevery [[Max and Nana Go to the Park]]的这本书上的内容，描述滑滑梯的过程。
 Max counts the steps as he climbs to the top of the slide: 1 2 3. Max has climbed to the very top. He can see the whole park! With a little scoot, down he goes.                      。
