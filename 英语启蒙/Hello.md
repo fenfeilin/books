@@ -9,7 +9,8 @@
 #### 词汇拓展：
 除了书中的词汇，还可以拓展公园游乐设施相关词汇，如slide（滑梯）、swing（秋千）、seesaw（跷跷板）等。
 #### 句型拓展：
-可以强化I'm xx, i love xx。
+1. I'm xx
+2. i love xx
 #### 场景拓展：
 带宝宝去玩滑滑梯，能用上lovevery [[Max and Nana Go to the Park]]的这本书上的内容，描述滑滑梯的过程。
 Max counts the steps as he climbs to the top of the slide: 1 2 3. Max has climbed to the very top. He can see the whole park! With a little scoot, down he goes.                      。

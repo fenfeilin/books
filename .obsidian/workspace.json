@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/follow me（1岁8个月）.md",
+                "file": "英语启蒙/Wake up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "follow me（1岁8个月）"
+              "title": "Wake up"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语启蒙/follow me（1岁8个月）.md",
+                "file": "英语启蒙/Wake up.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "follow me（1岁8个月） 的反向链接列表"
+              "title": "Wake up 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语启蒙/follow me（1岁8个月）.md",
+                "file": "英语启蒙/Wake up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "follow me（1岁8个月） 的出链列表"
+              "title": "Wake up 的出链列表"
             }
           },
           {
@@ -197,22 +197,25 @@
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
     "英语启蒙/古力小超人（1岁6个月）.md",
-    "pat pat pat.md",
-    "5471759548860_.pic_hd.jpg",
-    "scrub scrub scrub.md",
-    "5461759548858_.pic_hd.jpg",
-    "hide and seek.md",
-    "5451759548855_.pic_hd.jpg",
-    "yum yum.md",
-    "5441759548853_.pic_hd.jpg",
-    "go away shadow.md",
-    "5431759548850_.pic_hd.jpg",
-    "the rainy day.md",
-    "5421759548847_.pic_hd.jpg",
-    "英语启蒙/follow me（1岁8个月）.md",
-    "5411759548845_.pic_hd.jpg",
     "英语启蒙/Hello.md",
-    "wake up.md",
+    "英语启蒙/Wake up.md",
+    "英语启蒙/go away shadow.md",
+    "英语启蒙/hide and seek.md",
+    "英语启蒙/5411759548845_.pic_hd.jpg",
+    "英语启蒙/5621759675317_.pic_hd.jpg",
+    "英语启蒙/yum yum.md",
+    "英语启蒙/5611759675314_.pic_hd.jpg",
+    "英语启蒙/5601759675311_.pic_hd.jpg",
+    "英语启蒙/scrub scrub scrub.md",
+    "英语启蒙/5591759675308_.pic_hd.jpg",
+    "英语启蒙/pat pat pat.md",
+    "英语启蒙/5581759675306_.pic_hd.jpg",
+    "英语启蒙/the rainy day.md",
+    "英语启蒙/5571759675303_.pic_hd.jpg",
+    "英语启蒙/follow me（1岁8个月）.md",
+    "英语启蒙/5561759675300_.pic_hd.jpg",
+    "英语启蒙/5471759548860_.pic_hd.jpg",
+    "英语启蒙/5461759548858_.pic_hd.jpg",
     "英语启蒙/qplay（1岁6个月）.md",
     "英语启蒙/1-2岁书单.md",
     "英语启蒙/0-1岁书单.md",
@@ -220,9 +223,6 @@
     "英语启蒙/4-5岁书单.md",
     "未命名.base",
     "英语启蒙/Max and Nana Go to the Park.md",
-    "英语启蒙/5511759549780_.pic_hd.jpg",
-    "英语启蒙/5501759549778_.pic_hd.jpg",
-    "英语启蒙/5481759549073_.pic_hd.jpg",
     "英语启蒙/lovevery（6个月）.md",
     "英语启蒙/Mac and the Magnificent Masks.md",
     "英语启蒙/Ally and the apple.md",
