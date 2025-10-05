@@ -1,3 +1,4 @@
+![[5411759548845_.pic_hd.jpg]]
 1. 带读绘本
 	单词：track，bunny，squrl，net，bear，fire，house
 	句型：it‘s a XX

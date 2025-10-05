@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/Max and Nana Go to the Park.md",
+                "file": "英语启蒙/follow me（1岁8个月）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max and Nana Go to the Park"
-            }
-          },
-          {
-            "id": "5c3d61709ddbd8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语启蒙/Hello.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hello"
+              "title": "follow me（1岁8个月）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,13 +89,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5c3d61709ddbd8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语启蒙/4-5岁书单.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-5岁书单"
+            }
+          },
+          {
             "id": "ea40e608a6a5dd70",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zack and His Zipper.md",
-                "collapseAll": false,
+                "file": "英语启蒙/follow me（1岁8个月）.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zack and His Zipper 的反向链接列表"
+              "title": "follow me（1岁8个月） 的反向链接列表"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "古力小超人（1岁6个月）.md",
+                "file": "英语启蒙/follow me（1岁8个月）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "古力小超人（1岁6个月） 的出链列表"
+              "title": "follow me（1岁8个月） 的出链列表"
             }
           },
           {
@@ -177,11 +176,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 494.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,38 +194,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "439ee0e01b209ff1",
+  "active": "269f5b87e5079527",
   "lastOpenFiles": [
-    "英语启蒙/Max and Nana Go to the Park.md",
+    "英语启蒙/古力小超人（1岁6个月）.md",
+    "pat pat pat.md",
+    "5471759548860_.pic_hd.jpg",
+    "scrub scrub scrub.md",
+    "5461759548858_.pic_hd.jpg",
+    "hide and seek.md",
+    "5451759548855_.pic_hd.jpg",
+    "yum yum.md",
+    "5441759548853_.pic_hd.jpg",
+    "go away shadow.md",
+    "5431759548850_.pic_hd.jpg",
+    "the rainy day.md",
+    "5421759548847_.pic_hd.jpg",
+    "英语启蒙/follow me（1岁8个月）.md",
+    "5411759548845_.pic_hd.jpg",
     "英语启蒙/Hello.md",
+    "wake up.md",
+    "英语启蒙/qplay（1岁6个月）.md",
+    "英语启蒙/1-2岁书单.md",
+    "英语启蒙/0-1岁书单.md",
+    "英语启蒙/2-3岁书单.md",
+    "英语启蒙/4-5岁书单.md",
+    "未命名.base",
+    "英语启蒙/Max and Nana Go to the Park.md",
     "英语启蒙/5511759549780_.pic_hd.jpg",
     "英语启蒙/5501759549778_.pic_hd.jpg",
     "英语启蒙/5481759549073_.pic_hd.jpg",
-    "英语启蒙/5401759548843_.pic_hd.jpg",
-    "英语启蒙/古力小超人（1岁6个月）.md",
     "英语启蒙/lovevery（6个月）.md",
-    "英语启蒙/0-1岁书单.md",
     "英语启蒙/Mac and the Magnificent Masks.md",
-    "英语启蒙/1-2岁书单.md",
     "英语启蒙/Ally and the apple.md",
-    "未命名.base",
     "英语启蒙/carry me（2岁）.md",
-    "英语启蒙/2-3岁书单.md",
     "英语启蒙/买了还不知道啥时候能看系列.md",
     "英语启蒙/Zack and His Zipper.md",
     "英语启蒙/Yolanda and the Yo-Yo.md",
     "英语启蒙/Xavier Gets and X-Ray.md",
     "英语启蒙/Wes and the Watermelon.md",
-    "英语启蒙/Vic, Val, and the Vacuum.md",
-    "英语启蒙/Umberto and the Umbrella.md",
-    "英语启蒙/Tere and the Tomato.md",
-    "英语启蒙/Sam in the Sun.md",
-    "英语启蒙/Rex and the Rake.md",
-    "英语启蒙/Quinn and the Quilt.md",
-    "英语启蒙/Paco and the Piano.md",
-    "英语启蒙/Oz and the Octopus.md",
-    "英语启蒙/Nell and the Nest.md",
-    "英语启蒙/Lola and the Lock.md",
     "语文启蒙",
     "未命名.canvas",
     "数学启蒙",
