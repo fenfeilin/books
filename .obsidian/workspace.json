@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/Hello.md",
+                "file": "英语启蒙/hide and seek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "hide and seek"
             }
           }
         ]
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语启蒙/Hello.md",
+                "file": "英语启蒙/hide and seek.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Hello 的反向链接列表"
+              "title": "hide and seek 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语启蒙/Hello.md",
+                "file": "英语启蒙/hide and seek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Hello 的出链列表"
+              "title": "hide and seek 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "古力小超人（1岁6个月）.md",
+                "file": "英语启蒙/hide and seek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "古力小超人（1岁6个月） 的大纲"
+              "title": "hide and seek 的大纲"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,9 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "269f5b87e5079527",
+  "active": "94af93032a72b8ea",
   "lastOpenFiles": [
     "英语启蒙/古力小超人（1岁6个月）.md",
+    "英语启蒙/scrub scrub scrub.md",
     "英语启蒙/Wake up.md",
     "英语启蒙/Hello.md",
     "英语启蒙/go away shadow.md",
@@ -206,7 +207,6 @@
     "英语启蒙/yum yum.md",
     "英语启蒙/5611759675314_.pic_hd.jpg",
     "英语启蒙/5601759675311_.pic_hd.jpg",
-    "英语启蒙/scrub scrub scrub.md",
     "英语启蒙/5591759675308_.pic_hd.jpg",
     "英语启蒙/pat pat pat.md",
     "英语启蒙/5581759675306_.pic_hd.jpg",

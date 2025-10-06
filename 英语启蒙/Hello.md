@@ -25,20 +25,15 @@
 
 - 句型 1：Hello, I'm...（你好，我是……）​
 - 示例：Hello, I'm Gyuri.（你好，我是古力。）​
+- 
 - 句型 2：I love...（我喜欢……）​
-
 - 示例：I love fishing.（我喜欢钓鱼。）​
-
 - 拓展：关联生活喜好，如 “I love swing.”（我喜欢秋千。）​
 
-2. 拓展句型（衔接基础句型，提升互动）​
-
+1. 拓展句型（衔接基础句型，提升互动）​
 - 问候类：Hello, [名字]!（你好，[名字]！）​
-
 - 场景：教师手持动物手偶说 “Hello, Jojo!”，幼儿回应 “Hello, teacher!”​
-
 - 询问类：Do you like...?（你喜欢…… 吗？）​
-
 - 示例：Do you like the slide?（你喜欢滑梯吗？）
 #### 场景拓展：
 带宝宝去玩滑滑梯，能用上lovevery [[Max and Nana Go to the Park]]的这本书上的内容，描述滑滑梯的过程。
