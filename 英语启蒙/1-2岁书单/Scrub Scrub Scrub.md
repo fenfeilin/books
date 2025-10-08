@@ -37,6 +37,31 @@
 - 家长可以在日常生活中，结合书中的洗澡场景，告诉孩子洗澡时的安全注意事项，比如 “Don't run in the bathroom. It's slippery.”（不要在浴室里跑。地面很滑。） ，用英语反复强调，加深孩子的安全意识。
 - 在洗澡前，教孩子检查水温，说 “Let's check the water temperature first. It shouldn't be too hot or too cold.”（我们先检查一下水温。不能太烫也不能太凉。） 。
 ##### （3）lovevery洗澡主题
-- 
-
+- take off your clothes and put them into the hamper
+- splash and play in the water
+- oops！zeo gets some soap and water in her eyes！
+- wipe the face with a washcloth and remind her to look up
+- wrap you in a big fluffy towel and give you a hug
+- put on the pajamas、zip them up
+![[5781759896016_.pic.jpg]]
 ### 熏听
+It's bath time! 洗澡时间到了！
+Let's wash! 我们洗澡吧！
+Where are your ears? 你的耳朵在哪里？
+Here they are! Scrub, scrub, scrub! 在这里！擦，擦，擦！
+Where's your nose? 你的鼻子在哪里？
+Here it is! Scrub, scrub, scrub! 在这里！擦，擦，擦！
+Where are your feet? 你的脚丫在哪里？
+Here they are! Scrub, scrub, scrub! 在这里！擦，擦，擦！
+Where's your belly? 你的肚子在哪里？
+Here it is! Scrub, scrub, scrub! 在这里！擦，擦，擦！
+Look at the bubbles! 看这些泡泡！
+Oh, no! 哦，不好！
+Gyuri! Help us! 古力！帮帮我们！
+I’m Gyuri the Superhero! 我是古力小超人！
+Pop, pop! Pop the bubbles! 戳，戳！戳泡泡！
+Pop, pop, pop, pop! 戳，戳，戳，戳！
+Pop the bubbles! 戳泡泡！
+Scrub the tub! Scrub the tub! 擦一擦浴缸！擦一擦浴缸
+Wipe the wall! Wipe! 抹一抹墙！抹一抹！
+Wow! Great! 哇！太棒了！
