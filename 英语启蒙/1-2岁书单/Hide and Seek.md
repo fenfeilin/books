@@ -22,16 +22,28 @@
 #### 3. 场景拓展：
 可以在家里和孩子玩捉迷藏游戏，运用书中的句型和词汇，如 “Let's play hide - and - seek in the living room.”（让我们在客厅里玩捉迷藏吧。）“Are you hiding behind the sofa?”（你藏在沙发后面吗？）
 ### 熏听
-http://xhslink.com/o/4E9SmnaNxtS 
 
-Hello! I’m Leo. I love fishing.   你好！我是利奥。我喜欢钓鱼。
-Hello! I’m Bella. I love cooking.   你好！我是贝拉。我喜欢烹饪。
-Hello! I’m Jojo. I love dancing.   你好！我是乔乔。我喜欢跳舞。
-Hello! I’m Teeny. I love singing.   你好！我是蒂尼。我喜欢唱歌。
-Hello! I’m Ducky. I love reading.   你好！我是达基。我喜欢阅读。
-Gyuri! Help us!   古力！救救我们！
-I’m Gyuri the Superhero!  我是超级英雄古力！
-Pull Jojo out! Pull Bella out!   把乔乔拉出来！把贝拉拉出来！
-Pull Leo out! Pull everybody out!    把利奥拉出来！把大家都拉出来！
-We love sliding!    我们喜欢滑滑梯！
+
+Let's play hide-and-seek! 我们玩儿捉迷藏吧!
+I'll hide. 我来藏。
+I'll hide in the pet shop. 我要藏到宠物店里。
+Oh, no! 哦，不行!
+I'll hide in the fire station. 我要藏到消防站里。
+Oh, no! 哦，不行!
+I'll hide in the playground. 我要藏到游乐场里。
+Is Leo in the pet shop? 利奥在宠物店里吗?
+No! 不在!
+Is Leo in the fire station? 利奥在消防站里吗?
+No! 不在!
+Is Leo in the playground? 利奥在游乐场里吗?
+Look in the tube! 看看管子里!
+We found you! 我们找到你了!
+Oh, no! I'm stuck! 哦，不好！我被卡住了!
+Gyuri! Help us! 古力！帮帮我们!
+I'm Gyuri the Superhero! 我是古力小超人!
+Get in, get in the tube! 进去，进到管子里!
+Get in, get in, get in the tube! 进去，进去，进到管子里!
+Blow, blow Leo out! 吹啊，把利奥吹出去!
+Blow, blow, blow Leo out! 吹啊，吹啊，把利奥吹出去!
+Thank you, Gyuri! 谢谢你，古力!
 

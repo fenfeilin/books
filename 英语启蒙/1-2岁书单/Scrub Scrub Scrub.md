@@ -44,7 +44,10 @@
 - wrap you in a big fluffy towel and give you a hug
 - put on the pajamas、zip them up
 ![[5781759896016_.pic.jpg]]
+
 ### 熏听
+http://xhslink.com/o/2bMnnaJEEcv 
+
 It's bath time! 洗澡时间到了！
 Let's wash! 我们洗澡吧！
 Where are your ears? 你的耳朵在哪里？
