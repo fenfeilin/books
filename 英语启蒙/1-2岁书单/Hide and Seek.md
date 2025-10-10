@@ -21,9 +21,8 @@
 - **We found you!**：我们找到你了！当找到躲藏的人时可以说，如 “Look in the tube. We found you.”（看看管道里。我们找到你了。）
 #### 3. 场景拓展：
 可以在家里和孩子玩捉迷藏游戏，运用书中的句型和词汇，如 “Let's play hide - and - seek in the living room.”（让我们在客厅里玩捉迷藏吧。）“Are you hiding behind the sofa?”（你藏在沙发后面吗？）
+
 ### 熏听
-
-
 Let's play hide-and-seek! 我们玩儿捉迷藏吧!
 I'll hide. 我来藏。
 I'll hide in the pet shop. 我要藏到宠物店里。
