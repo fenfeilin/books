@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/1-2岁书单/yum yum.md",
+                "file": "the birthday party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "yum yum"
+              "title": "the birthday party"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英语启蒙/1-2岁书单/yum yum.md",
+                "file": "the birthday party.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "yum yum 的反向链接列表"
+              "title": "the birthday party 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英语启蒙/1-2岁书单/yum yum.md",
+                "file": "the birthday party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "yum yum 的出链列表"
+              "title": "the birthday party 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语启蒙/1-2岁书单/yum yum.md",
+                "file": "the birthday party.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "yum yum 的大纲"
+              "title": "the birthday party 的大纲"
             }
           },
           {
@@ -197,6 +197,7 @@
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
     "英语启蒙/1-2岁书单/古力小超人（1岁6个月）.md",
+    "英语启蒙/1-2岁书单/yum yum.md",
     "the birthday party.md",
     "Ready go.md",
     "英语启蒙/1-2岁书单/go away shadow.md",
@@ -210,7 +211,6 @@
     "英语启蒙/0-1岁书单.md",
     "目录.base",
     "英语启蒙/4-5岁书单/Zack and His Zipper.md",
-    "英语启蒙/1-2岁书单/yum yum.md",
     "英语启蒙/4-5岁书单/Xavier Gets and X-Ray.md",
     "英语启蒙/1-2岁书单/qplay（1岁9个月）.md",
     "英语启蒙/4-5岁书单/Umberto and the Umbrella.md",
