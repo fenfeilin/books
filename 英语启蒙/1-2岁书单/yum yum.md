@@ -61,3 +61,23 @@
 在家中用玩偶模拟角色，准备水果、玩具篮子等道具。家长扮演 JoJo 说：“The basket is small. Gyuri, help us！”，孩子扮演古力回应：“I can help. Let's use the big basket.”。还可加入分类环节：“Put apples in the red basket. Put carrots in the green one.”，强化 “put in” 句型的运用。​
 
 ### 熏听
+It's fall. 秋天到了。
+Look at the apples. 看这些苹果。
+They look yummy! 它们看起来很好吃!
+Let's pick apples. 我们摘苹果吧。
+Let's pick nuts. 我们采坚果吧。
+Let's pick carrots. 我们拔胡萝卜吧。
+Pick the apples. 摘苹果。
+Put them in the basket. 把它们放进筐子里。
+Pick the nuts. 采坚果。
+Put them in the basket. 把它们放进筐子里。
+Pick the carrots. 拔胡萝卜。
+Put them in the basket. 把它们放进筐子里。
+Oh, no! Where's the food? 哦，不好！食物去哪里了？
+It's all gone! 都不见了！
+Gyuri! Help us! 古力！帮帮我们！
+I'm Gyuri the Superhero! 我是古力小超人！
+Pick, pick, pick, pick the apples! 摘啊，摘啊，摘啊，摘苹果！
+Pick, pick, pick, pick the nuts! 采啊，采啊，采啊，采坚果！
+Pick, pick, pick, pick the carrots! 拔啊，拔啊，拔啊，拔胡萝卜！
+Pick, pick, pick! Let's pick! 摘啊，采啊，拔啊！我们采摘
