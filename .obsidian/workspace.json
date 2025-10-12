@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/1-2岁书单/follow me（1岁8个月）.md",
+                "file": "英语启蒙/1-2岁书单/古力小超人（1岁6个月）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "follow me（1岁8个月）"
+              "title": "古力小超人（1岁6个月）"
             }
           }
         ],
@@ -176,11 +176,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 214.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,20 +197,25 @@
   },
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
+    "英语启蒙/1-2岁书单/Ready go.md",
+    "2025-10-11.md",
+    "未命名.base",
+    "目录.base",
+    "未命名.canvas",
+    "英语启蒙/1-2岁书单/Hello.md",
     "英语启蒙/1-2岁书单/古力小超人（1岁6个月）.md",
-    "英语启蒙/1-2岁书单/go away shadow.md",
+    "英语启蒙/1-2岁书单/Follow me（1岁8个月）.md",
+    "英语启蒙/1-2岁书单/who are you.md",
+    "英语启蒙/1-2岁书单/the rainy day.md",
+    "英语启蒙/1-2岁书单/Go away shadow.md",
     "英语启蒙/1-2岁书单/yum yum.md",
+    "英语启蒙/1-2岁书单/the birthday party.md",
     "英语启蒙/1-2岁书单/Wake up.md",
-    "the birthday party.md",
-    "Ready go.md",
     "英语启蒙/1-2岁书单/Pat Pat Pat.md",
     "英语启蒙/1-2岁书单/Scrub Scrub Scrub.md",
     "英语启蒙/1-2岁书单/Hide and Seek.md",
-    "英语启蒙/1-2岁书单/Hello.md",
-    "英语启蒙/1-2岁书单/follow me（1岁8个月）.md",
     "英语启蒙/4-5岁书单.md",
     "英语启蒙/0-1岁书单.md",
-    "目录.base",
     "英语启蒙/4-5岁书单/Zack and His Zipper.md",
     "英语启蒙/4-5岁书单/Xavier Gets and X-Ray.md",
     "英语启蒙/1-2岁书单/qplay（1岁9个月）.md",
@@ -219,10 +225,6 @@
     "英语启蒙/0-1岁书单/Max and Nana Go to the Park.md",
     "英语启蒙/lovevery（6个月）.md",
     "英语启蒙/0-1岁书单/lovevery（6个月）.md",
-    "英语启蒙/4-5岁书单/Quinn and the Quilt.md",
-    "英语启蒙/4-5岁书单/Paco and the Piano.md",
-    "英语启蒙/4-5岁书单/Oz and the Octopus.md",
-    "英语启蒙/4-5岁书单/Nell and the Nest.md",
     "英语启蒙/4-5岁书单",
     "英语启蒙/3-4岁书单",
     "英语启蒙/2-3岁书单",
@@ -240,8 +242,6 @@
     "英语启蒙/pic/5571759675303_.pic_hd.jpg",
     "英语启蒙/pic/5561759675300_.pic_hd.jpg",
     "语文启蒙",
-    "未命名.canvas",
-    "数学启蒙",
-    "英语启蒙"
+    "数学启蒙"
   ]
 }
