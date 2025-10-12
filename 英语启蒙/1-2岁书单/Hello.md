@@ -1,4 +1,4 @@
-![[5401759548843_.pic_hd.jpg]]![[5481759549073_.pic_hd.jpg]]
+![[5401759548843_.pic_hd.jpg|180]]![[5481759549073_.pic_hd.jpg|320]]
 
 ### 内容简介
 绘本中，小超人古力的朋友们分别介绍自己，如“Hello! I'm Leo. I love fishing.”“Hello! I'm Bella. I love cooking.”等，接着他们在游乐场玩滑梯时遇到了困境，Leo、Bella和Jojo卡在了滑梯上，于是他们大喊“Gyuri! Help us!”，古力小超人穿着披风出现，用他的长尾巴把朋友们拉了出来，最后大家一起开心地玩滑梯，喊着“We love sliding!”。
@@ -26,7 +26,7 @@
 #### 3. 场景拓展：
 带宝宝去玩滑滑梯，能用上lovevery [[Max and Nana Go to the Park]]的这本书上的内容，描述滑滑梯的过程。
 Max counts the steps as he climbs to the top of the slide: 1 2 3. Max has climbed to the very top. He can see the whole park! With a little scoot, down he goes.                      。
-![[5501759549778_.pic_hd.jpg]]![[5511759549780_.pic_hd.jpg]]
+![[5501759549778_.pic_hd.jpg|70%]]![[5511759549780_.pic_hd.jpg]]
 
 ### 熏听
 http://xhslink.com/o/4E9SmnaNxtS 
