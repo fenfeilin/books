@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/0-1岁书单.md",
+                "file": "英语启蒙/0-1岁书单/海尼曼（1岁）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-1岁书单"
+              "title": "海尼曼（1岁）"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语启蒙/0-1岁书单.md",
+                "file": "英语启蒙/0-1岁书单/海尼曼（1岁）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0-1岁书单 的大纲"
+              "title": "海尼曼（1岁） 的大纲"
             }
           },
           {
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +198,12 @@
   },
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
-    "英语启蒙/买了还不知道啥时候能看系列.md",
+    "英语启蒙/0-1岁书单/彩虹兔欢唱童谣（6个月）.md",
+    "英语启蒙/0-1岁书单/巴塔木童谣.md",
     "英语启蒙/1-2岁书单.md",
     "英语启蒙/0-1岁书单.md",
-    "英语启蒙/0-1岁书单/巴塔木童谣（1岁）.md",
     "英语启蒙/1-2岁书单/古力小超人（1岁6个月）.md",
+    "英语启蒙/买了还不知道啥时候能看系列.md",
     "英语启蒙/1-2岁书单/who are you.md",
     "英语启蒙/1-2岁书单/Wake up.md",
     "英语启蒙/1-2岁书单/the rainy day.md",
@@ -225,7 +227,6 @@
     "英语启蒙/4-5岁书单/Umberto and the Umbrella.md",
     "英语启蒙/4-5岁书单/Rex and the Rake.md",
     "英语启蒙/0-1岁书单/raz aa（8个月）.md",
-    "英语启蒙/0-1岁书单/Max and Nana Go to the Park.md",
     "英语启蒙/4-5岁书单",
     "英语启蒙/3-4岁书单",
     "英语启蒙/2-3岁书单",
