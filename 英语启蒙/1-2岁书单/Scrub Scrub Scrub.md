@@ -1,12 +1,10 @@
-![[5461759548858_.pic_hd.jpg]]![[5591759675308_.pic_hd.jpg]]
+![[5461759548858_.pic_hd.jpg|180]]![[5591759675308_.pic_hd.jpg|320]]
 ### 内容简介
 本书围绕两个主要主题展开。在认识身体主题方面，通过欢快的对话，如 “Where are your ears? Here they are! Scrub, scrub, scrub!” 、“Where’s your nose? Here it is! Scrub, scrub, scrub!” 等，引导孩子认识耳朵、鼻子、脚、肚子等常见的身体部位 ，并在指出身体部位的同时，加入擦洗的动作描述，加深孩子对身体部位的认知。
-
 在洗澡安全主题上，描绘了洗澡的场景，像一起洗澡、看泡泡等情节，当出现泡泡带来的小 “危机” 时，古力小超人出现，通过 “Pop, pop! Pop the bubbles!” 这样有趣的表达，引导孩子处理洗澡时可能遇到的小状况 ，同时还提到了擦洗浴缸 “Scrub the tub! ”、抹墙 “Wipe the wall!” 等洗澡后的清洁工作，培养孩子良好的洗澡习惯和安全意识。
 
 ### 拓展带读 
 #### 1. 词汇拓展
-
 ##### （1）核心基础词汇
 - 身体部位类：ear（耳朵）、nose（鼻子）、face（脸）、hand（手）、foot（脚）、body（身体）​
 - 动作 / 物品类：scrub（擦洗，指用海绵等用力清洁）、wash（洗）、rinse（冲洗）、soap（肥皂）、sponge（海绵）、towel（毛巾）​
@@ -28,7 +26,6 @@
 
 - 状态询问类：Are you clean?（你干净了吗？）​
 - 示例：Teacher: Are you clean? Kid: Yes! / No, I need to scrub!（老师：你干净了吗？幼儿：是的！/ 没有，我要再擦洗一下！）
-
 #### 3. 场景拓展
 ##### （1）**家庭洗澡场景**
 - 家长可以在给孩子洗澡的时候，用英语重复书中的对话，比如问孩子 “Where are your toes?”（你的脚趾在哪里？），“Where is the knee?”（膝盖在哪里？）引导孩子自己指出身体部位，同时用柔软的毛巾擦洗相应部位，一边洗一边说 “Scrub, scrub, scrub” 。

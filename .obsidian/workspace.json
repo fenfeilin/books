@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/1-2岁书单/Hello.md",
+                "file": "英语启蒙/0-1岁书单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "0-1岁书单"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语启蒙/1-2岁书单/go away shadow.md",
+                "file": "英语启蒙/0-1岁书单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "go away shadow 的大纲"
+              "title": "0-1岁书单 的大纲"
             }
           },
           {
@@ -177,11 +177,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,34 +197,35 @@
   },
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
+    "英语启蒙/买了还不知道啥时候能看系列.md",
+    "英语启蒙/1-2岁书单.md",
+    "英语启蒙/0-1岁书单.md",
+    "英语启蒙/0-1岁书单/巴塔木童谣（1岁）.md",
+    "英语启蒙/1-2岁书单/古力小超人（1岁6个月）.md",
+    "英语启蒙/1-2岁书单/who are you.md",
+    "英语启蒙/1-2岁书单/Wake up.md",
+    "英语启蒙/1-2岁书单/the rainy day.md",
+    "英语启蒙/1-2岁书单/Ready go.md",
+    "英语启蒙/1-2岁书单/qplay（1岁9个月）.md",
+    "英语启蒙/1-2岁书单/Pat Pat Pat.md",
     "英语启蒙/1-2岁书单/Hide and Seek.md",
     "英语启蒙/1-2岁书单/Hello.md",
-    "英语启蒙/1-2岁书单/古力小超人（1岁6个月）.md",
-    "英语启蒙/1-2岁书单/Ready go.md",
+    "英语启蒙/1-2岁书单/Scrub Scrub Scrub.md",
+    "英语启蒙/1-2岁书单/the birthday party.md",
+    "英语启蒙/1-2岁书单/yum yum.md",
+    "英语启蒙/1-2岁书单/Follow me（1岁8个月）.md",
+    "英语启蒙/1-2岁书单/Go away shadow.md",
     "2025-10-11.md",
     "未命名.base",
     "目录.base",
     "未命名.canvas",
-    "英语启蒙/1-2岁书单/Follow me（1岁8个月）.md",
-    "英语启蒙/1-2岁书单/who are you.md",
-    "英语启蒙/1-2岁书单/the rainy day.md",
-    "英语启蒙/1-2岁书单/Go away shadow.md",
-    "英语启蒙/1-2岁书单/yum yum.md",
-    "英语启蒙/1-2岁书单/the birthday party.md",
-    "英语启蒙/1-2岁书单/Wake up.md",
-    "英语启蒙/1-2岁书单/Pat Pat Pat.md",
-    "英语启蒙/1-2岁书单/Scrub Scrub Scrub.md",
     "英语启蒙/4-5岁书单.md",
-    "英语启蒙/0-1岁书单.md",
     "英语启蒙/4-5岁书单/Zack and His Zipper.md",
     "英语启蒙/4-5岁书单/Xavier Gets and X-Ray.md",
-    "英语启蒙/1-2岁书单/qplay（1岁9个月）.md",
     "英语启蒙/4-5岁书单/Umberto and the Umbrella.md",
     "英语启蒙/4-5岁书单/Rex and the Rake.md",
     "英语启蒙/0-1岁书单/raz aa（8个月）.md",
     "英语启蒙/0-1岁书单/Max and Nana Go to the Park.md",
-    "英语启蒙/lovevery（6个月）.md",
-    "英语启蒙/0-1岁书单/lovevery（6个月）.md",
     "英语启蒙/4-5岁书单",
     "英语启蒙/3-4岁书单",
     "英语启蒙/2-3岁书单",
