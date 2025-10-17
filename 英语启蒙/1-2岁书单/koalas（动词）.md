@@ -1,7 +1,7 @@
 1-2岁
 学会动词：
 climbs（攀爬）、eats（吃）、grabs（抓取）、koala（考拉）、rides（骑乘）、sleeps（睡觉）、walks（行走）
-能知道一些动作的名词
+能知道一些动作的
 
 2-3岁
 - **高频词**：a、is、it
