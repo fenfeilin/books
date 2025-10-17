@@ -1,0 +1,20 @@
+/* 为打印（导出PDF）和屏幕显示都添加水印 */
+@media print, screen {
+  .print-watermark {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none; /* 非常重要！确保水印不会干扰选择和点击 */
+    z-index: 9999;
+    opacity: 0.1; /* 设置水印透明度，0.1 非常淡，0.3 会更明显 */
+    font-size: 60px; /* 水印字体大小 */
+    color: #d3d3d3; /* 水印颜色，浅灰色 */
+    transform: rotate(-45deg); /* 经典的斜角水印 */
+    font-family: Arial, sans-serif; /* 水印字体 */
+  }
+}

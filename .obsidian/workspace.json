@@ -6,41 +6,21 @@
       {
         "id": "88b53d50d015cb16",
         "type": "tabs",
-        "dimension": 50.9765625,
         "children": [
           {
             "id": "269f5b87e5079527",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "raccoons（）.md",
-                "mode": "source",
-                "source": false
+                "file": "英语启蒙/pic/5401759548843_.pic_hd.jpg"
               },
-              "icon": "lucide-file",
-              "title": "raccoons（）"
+              "icon": "lucide-image",
+              "title": "5401759548843_.pic_hd"
             }
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "6972c39c1dd80385",
-        "type": "tabs",
-        "dimension": 49.0234375,
-        "children": [
-          {
-            "id": "83d1ae8995c73f0a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raccoons（）.md",
+                "file": "英语启蒙/pic/5401759548843_.pic_hd.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "raccoons（） 的大纲"
+              "title": "5401759548843_.pic_hd 的大纲"
             }
           },
           {
@@ -211,21 +191,24 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
-    "rabbits（生物特征+单词学习）.md",
-    "raccoons（）.md",
-    "squirrels（动物习性+拼写）.md",
+    "英语启蒙/1-2岁书单/Hello.md",
+    "英语启蒙/1-2岁书单/古力小超人.md",
     "英语启蒙/1-2岁书单/jump 蝌蚪.md",
+    "英语启蒙/1-2岁书单.md",
+    "英语启蒙/1-2岁书单/deer fawns（身体部位+长元音复习）.md",
+    "英语启蒙/1-2岁书单/rabbits（生物特征+单词学习）.md",
+    "英语启蒙/1-2岁书单/raccoons（动物习性+长元音）.md",
+    "英语启蒙/1-2岁书单/squirrels（动物习性+拼写）.md",
     "英语启蒙/1-2岁书单/frogs（生命周期+单词学习）.md",
-    "deer fawns（身体部位+长元音复习）.md",
     "英语启蒙/1-2岁书单/hedgehogs（生活习性+字母组合音）.md",
     "英语启蒙/1-2岁书单/llamas（身体部位+长元音）.md",
     "英语启蒙/1-2岁书单/owlets（动物习性+长元音）.md",
-    "英语启蒙/1-2岁书单.md",
     "英语启蒙/1-2岁书单/koalas（动词）.md",
     "英语启蒙/1-2岁书单/parrots（身体部位+长元音学习）.md",
     "英语启蒙/1-2岁书单/narwhals（身体部位+长元音学习）.md",
@@ -241,8 +224,6 @@
     "英语启蒙/1-2岁书单/qplay.md",
     "英语启蒙/1-2岁书单/兰登分级1.md",
     "英语启蒙/1-2岁书单/raz a.md",
-    "英语启蒙/0-1岁书单/巴塔木童谣.md",
-    "英语启蒙/0-1岁书单/lovevery.md",
     "粤语启蒙",
     "未命名.base",
     "未命名.canvas",
