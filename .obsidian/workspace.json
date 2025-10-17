@@ -11,13 +11,14 @@
             "id": "269f5b87e5079527",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "目录.base",
-                "viewName": "表格"
+                "file": "英语启蒙/1-2岁书单/buddy readers a.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "目录"
+              "icon": "lucide-file",
+              "title": "buddy readers a"
             }
           }
         ],
@@ -197,15 +198,16 @@
   },
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
+    "英语启蒙/1-2岁书单.md",
+    "英语启蒙/0-1岁书单.md",
+    "目录.base",
     "数学启蒙/汉声数学.md",
     "英语启蒙/1-2岁书单/buddy readers a.md",
-    "英语启蒙/1-2岁书单.md",
     "英语启蒙/1-2岁书单/jump 蝌蚪.md",
     "英语启蒙/1-2岁书单/qplay.md",
     "英语启蒙/1-2岁书单/兰登分级1.md",
     "英语启蒙/1-2岁书单/raz a.md",
     "英语启蒙/0-1岁书单/巴塔木童谣.md",
-    "英语启蒙/0-1岁书单.md",
     "英语启蒙/0-1岁书单/lovevery.md",
     "英语启蒙/0-1岁书单/海尼曼.md",
     "英语启蒙/0-1岁书单/raz aa.md",
@@ -223,9 +225,7 @@
     "英语启蒙/1-2岁书单/who are you.md",
     "英语启蒙/1-2岁书单/Wake up.md",
     "英语启蒙/1-2岁书单/the rainy day.md",
-    "英语启蒙/1-2岁书单/Ready go.md",
     "未命名.base",
-    "目录.base",
     "未命名.canvas",
     "英语启蒙/4-5岁书单",
     "英语启蒙/3-4岁书单",
