@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语启蒙/1-2岁书单/buddy readers a.md",
+                "file": "pandas（动词+身体部位）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "buddy readers a"
+              "title": "pandas（动词+身体部位）"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语启蒙/4-5岁书单.md",
+                "file": "pandas（动词+身体部位）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4-5岁书单 的大纲"
+              "title": "pandas（动词+身体部位） 的大纲"
             }
           },
           {
@@ -198,12 +198,16 @@
   },
   "active": "269f5b87e5079527",
   "lastOpenFiles": [
+    "koalas（动词）.md",
+    "pandas（动词+身体部位）.md",
+    "英语启蒙/1-2岁书单/jump 蝌蚪.md",
     "英语启蒙/1-2岁书单.md",
+    "英语启蒙/1-2岁书单/大美照片书.md",
+    "英语启蒙/1-2岁书单/阅读时光1.md",
+    "英语启蒙/1-2岁书单/buddy readers a.md",
     "英语启蒙/0-1岁书单.md",
     "目录.base",
     "数学启蒙/汉声数学.md",
-    "英语启蒙/1-2岁书单/buddy readers a.md",
-    "英语启蒙/1-2岁书单/jump 蝌蚪.md",
     "英语启蒙/1-2岁书单/qplay.md",
     "英语启蒙/1-2岁书单/兰登分级1.md",
     "英语启蒙/1-2岁书单/raz a.md",
@@ -222,9 +226,6 @@
     "粤语启蒙/粤语童谣.md",
     "粤语启蒙",
     "英语启蒙/买了还不知道啥时候能看系列.md",
-    "英语启蒙/1-2岁书单/who are you.md",
-    "英语启蒙/1-2岁书单/Wake up.md",
-    "英语启蒙/1-2岁书单/the rainy day.md",
     "未命名.base",
     "未命名.canvas",
     "英语启蒙/4-5岁书单",
