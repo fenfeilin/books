@@ -55,3 +55,34 @@ C
 
 4. 学习元音
 5. 学习单词拼写
+
+户外探索
+A
+[[i see trees（名词+复数）]]
+[[i see birds（名词+字母音）]]
+B
+[[i see flowers（颜色+花朵+复数）]]
+[[i see rocks（形容词+元音）]]
+[[i see plants（名词+元音）]]
+C
+[[i see leaves（形状+长元音）]]
+[[i see seeds（陈述+长元音）]]
+
+1. 了解名词
+2. 了解形容词
+3. 如何去描述一样物体
+
+4. 学习元音
+
+四季
+B
+[[what i see in winter（描述+元音）]]
+[[what i see in summer（描述+元音）]]
+C
+[[what i see in spring（描述+元音）]]
+D
+[[what i see in fall（描述+自拼）]]
+
+1. 了解名词
+2. 如何去描述一样物体（写作？）
+3.  学习元音
