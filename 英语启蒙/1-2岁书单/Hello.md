@@ -40,4 +40,3 @@ I’m Gyuri the Superhero!  我是超级英雄古力！
 Pull Jojo out! Pull Bella out!   把乔乔拉出来！把贝拉拉出来！
 Pull Leo out! Pull everybody out!    把利奥拉出来！把大家都拉出来！
 We love sliding!    我们喜欢滑滑梯！
-
