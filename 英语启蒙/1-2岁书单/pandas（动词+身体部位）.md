@@ -1,14 +1,10 @@
 1-2岁
-学会动词：
-climbs、eats、forest、fur、panda、paws、plays、sleeps
-能知道一些动作的名词
+学习重点：climbs、eats、forest、fur、panda、paws、plays、sleeps
 
 2-3岁
-- 高频词：a、has、in、is、it
-- 标点：句号
-- 单词研究：长 /ɑ/ 音，拼写为 ay（如 plays）；长 /e/ 音，拼写为 ea（如 eats）；长 /e/ 音，拼写为 ee（如 sleeps）
-读后拓展
-向读者说明熊猫是熊类。还有哪些其他种类的熊？读者能说出它们的名字吗？熊猫与其他熊类（如北极熊、黑熊或灰熊）有何相似之处？又有何不同？
+高频词：a、has、in、is、it
+词汇学习：长 /ɑ/ 音，拼写为 ay（如 plays）；长 /e/ 音，拼写为 ea（如 eats）；长 /e/ 音，拼写为 ee（如 sleeps）
+读后拓展：向读者说明熊猫是熊类。还有哪些其他种类的熊？读者能说出它们的名字吗？熊猫与其他熊类（如北极熊、黑熊或灰熊）有何相似之处？又有何不同？
 
 翻译
 熊猫

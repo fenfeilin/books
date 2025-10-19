@@ -9,6 +9,249 @@ Jump分级读物是一套体系完整的科普分级读物。以下是其详细�
 - 读物特点：图片均为高清实拍图，视觉冲击力强，能吸引孩子注意力。语言贴近日常交流，是生活口语百科。排版和结构设计用心，每本书首页有阅读前、中、后的指导，书中有图片标注，结尾有词汇表，阅读后复习环节形式多样。
 - 配套资源：蝌蚪和牛蛙ABC有精读文本和音频，还有电子版活动练习册，全套支持小book、小蝌蚪A6S点读。
 
+
+
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>动物与自然学习主题分类表</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            overflow-x: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 15px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #e8f4fc;
+        }
+        .difficulty-A {
+            background-color: #e8f5e9;
+        }
+        .difficulty-B {
+            background-color: #e3f2fd;
+        }
+        .difficulty-C {
+            background-color: #fff3e0;
+        }
+        .difficulty-D {
+            background-color: #fce4ec;
+        }
+        .difficulty-E {
+            background-color: #f3e5f5;
+        }
+        .category-header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            font-weight: bold;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+        @media (max-width: 768px) {
+            table, thead, tbody, th, td, tr {
+                display: block;
+            }
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+            tr {
+                margin-bottom: 15px;
+                border: 1px solid #ddd;
+            }
+            td {
+                border: none;
+                border-bottom: 1px solid #eee;
+                position: relative;
+                padding-left: 50%;
+            }
+            td:before {
+                position: absolute;
+                top: 12px;
+                left: 15px;
+                width: 45%;
+                padding-right: 10px;
+                white-space: nowrap;
+                font-weight: bold;
+            }
+            td:nth-of-type(1):before { content: "难度等级"; }
+            td:nth-of-type(2):before { content: "学习目标"; }
+            td:nth-of-type(3):before { content: "动物"; }
+            td:nth-of-type(4):before { content: "日常生活"; }
+            td:nth-of-type(5):before { content: "户外探索"; }
+            td:nth-of-type(6):before { content: "四季"; }
+            td:nth-of-type(7):before { content: "五感"; }
+            td:nth-of-type(8):before { content: "运动"; }
+            td:nth-of-type(9):before { content: "植物生长"; }
+            td:nth-of-type(10):before { content: "情绪"; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>动物与自然学习主题分类表</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>难度等级</th>
+                    <th>学习目标</th>
+                    <th>动物</th>
+                    <th>日常生活</th>
+                    <th>户外探索</th>
+                    <th>四季</th>
+                    <th>五感</th>
+                    <th>运动</th>
+                    <th>植物生长</th>
+                    <th>情绪</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="difficulty-A">
+                    <td>A</td>
+                    <td>了解动词、名词+元音</td>
+                    <td>koalas</td>
+                    <td>exercising</td>
+                    <td>i see trees<br>i see birds</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr class="difficulty-B">
+                    <td>B</td>
+                    <td>特征性的描述词+元音</td>
+                    <td>pandas<br>sloths</td>
+                    <td>Eating Healthy Foods</td>
+                    <td>i see flowers<br>i see rocks<br>i see plants</td>
+                    <td>what i see in winter<br>what i see in summer</td>
+                    <td>see<br>hear<br>smell</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr class="difficulty-C">
+                    <td>C</td>
+                    <td>尝试描述一样物体+单词拼写</td>
+                    <td>narwhals<br>deer fawns<br>parrots<br>hedgehogs<br>owlets<br>llamas</td>
+                    <td>bedtime<br>morning routine</td>
+                    <td>i see leaves<br>i see seeds</td>
+                    <td>what i see in spring</td>
+                    <td>touch<br>taste</td>
+                    <td>soccer<br>tennis<br>swimming</td>
+                    <td>tomato<br>pumpkin<br>sunflower<br>blueberry<br>apple<br>corn</td>
+                    <td></td>
+                </tr>
+                <tr class="difficulty-D">
+                    <td>D</td>
+                    <td>总结性的特征</td>
+                    <td>frogs<br>rabbits</td>
+                    <td></td>
+                    <td></td>
+                    <td>what i see in fall</td>
+                    <td></td>
+                    <td>basketball<br>baseball</td>
+                    <td>maple tree<br>watermelon</td>
+                    <td>happy<br>afraid<br>angry<br>sad</td>
+                </tr>
+                <tr class="difficulty-E">
+                    <td>E</td>
+                    <td>跨学科概念思考</td>
+                    <td>squirrels<br>raccoons</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="footer">
+            <p>学习主题分类表 - 按难度等级排列</p>
+        </div>
+    </div>
+</body>
+</html>
+🐸「Jump蝌蚪」这套书，真的不止是实景+科普那么简单！
+
+从主题来看  
+📚 覆盖了日常习惯、运动、动植物、五感和情绪等  
+主要是概念和基础认知，内容超丰富～
+
+从知识角度来看  
+🔤 涵盖了词汇学习、单词拼读、不同形式文章内容的掌握，以及相关主题的探索性思考
+
+📌 学习阶段分为：  
+第一阶段：了解动词、名词+元音  
+第二阶段：特征性描述词+元音  
+第三阶段：尝试描述物体+单词拼写  
+第四阶段：总结性特征+跨学科概念思考
+
+👶 我家从1岁开始引入  
+现在宝宝已经能通过这套书掌握动词+名词啦！
+
+📖 年龄大一点的孩子  
+可以针对性学习高频词、拼读，并对交叉学科的开放性问题进行自主探索和思考
+
+从配套资源来看  
+🎧 全书可点读，有拓展内容、教学指导、课后练习、翻译和音频，资源超级丰富！
+
+这次我们先从动物主题来看这套书
+
+⏰ 阅读建议：  
+1-2岁宝宝：一天5-8本  
+大宝宝深度学习：一天2-3本
+
+
 难度
 主题：动物
 A
