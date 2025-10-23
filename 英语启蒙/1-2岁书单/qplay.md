@@ -1,22 +1,25 @@
-这套书怎么看
-1.读故事内容，简单了解故事情节，如果宝宝不喜欢，可以从音乐引入
-2.深入探讨故事情节，挖掘更多细节
-3.在生活中使用句型（亲子英语）
-4.熏听
-5.活动书问答书
+我家是1岁9个月左右，看完古力小超人之后开始看qplay，
+和古力小超人比较，句子明显变长，故事开始复杂。
 
+一开始不愿意看，得家长根据自己孩子的兴趣点来引入。
+我家是喜欢童谣，我就qplay的音乐模式替代读句子。
+侧重于每一本的重点句型和单词，不做过多的拓展。
+目前他能听懂我几本书的句型，能通过指认图片说出重点单词。
 
+这套书的配套资源非常丰富！
+针对不同类型的宝宝：
+1. 小宝宝可以用音乐模式引入
+2. 针对喜欢互动的宝宝，有活动书，有贴纸，有各种互动游戏
+3. 针对更大一点的宝宝，app有带读视频，带着孩子更深入的挖掘画面和故事
 
-我家是1岁9个月左右，看完古力小超人之后开始看qplay，一开始耐心只能看半本，所以我基本上只读句子。目前还停留在看图识字阶段。还不能用完整的句子回答问题
-
-
-1. [[what's in your bag]]
-2. [[why is her name monster]]
-3. [[can i have it]]
-4. [[are we there yet]]
-5. [[whose turn is it]]
-6. [[did you wash your hands]]
-7. [[what‘s that sound]]
-8. [[can i take my ball]]
-9. [[what did you build]]
-10. [[is it yummy]]
+书本目录
+4. [[what's in your bag]]
+5. [[why is her name monster]]
+6. [[can i have it]]
+7. [[are we there yet]]
+8. [[whose turn is it]]
+9. [[did you wash your hands]]
+10. [[what‘s that sound]]
+11. [[can i take my ball]]
+12. [[what did you build]]
+13. [[is it yummy]]
