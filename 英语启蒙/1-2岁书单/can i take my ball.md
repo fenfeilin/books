@@ -2,8 +2,11 @@
 	Teeny 和 Ducky、Bella、JOJO、Guri 等朋友玩耍时，依次好奇并查看了大家的包：Leon 的包有条纹 T 恤，Ducky 的包装满各类书籍，JOJO 的包装着乐器，Bella 的包有镜子、梳子和发夹，Guri 的包全是问题。最后 Teeny 打开自己的小包，里面是彩色气球，朋友们一起吹气球、被气球带飞，安全落地后，故事也随之结束。
 	
 2. 重点单词 & 句型
-	- 重点单词：bag, t-shirt, book(s), guitar(s), drum(s), maraca(s), mirror(s), brush(s), hairpin(s), questions(s), balloon(s)
-	- 句型: what's in your bag?
+	- 重点单词：ball(s), water gun(s), carry, bug jar(s), butterfly net(s), fishing rod(s), rope(s), bucket(s), shovel(s), flashlight(s), camera(s), wagon(s)
+	- 句型: 
+		- can i take my ...?
+		- that's a lot of stuff?
+		- how can you carry it?
 	
 3. 拓展
 在看书的时候，可以复习一下古力的知识：
