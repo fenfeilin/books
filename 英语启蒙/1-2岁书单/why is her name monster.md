@@ -7,9 +7,19 @@
 		- why is her name?
 		- why do you love..? i can
 3. 拓展
-	- what will leo doing？fishing->leo love fishing
+	（1）根据封面猜一猜：
+	- Whose name is Monster?
+	（2）看内容可以互动：
+	- what will leo doing？fishing（taking fishing rod）->leo love fishing
 	- Who is hiding in the grass?  Bella、JOJO
 	- What else did they do while watching the tv? eating snacks
+	（3）看完的理解：
+	- who：leo
+	- why：
+	1. Why is Leo called a puppy monster?  
+	2. Why does Leo love puppies? 
+	
+	
 	
 
 
