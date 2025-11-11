@@ -1,20 +1,20 @@
 1. 内容介绍
-	Gyuri遇到leo和他的狗monster。Gyuri好奇为什么小狗的名字叫monster。leo说因为他是爱舔人的家伙，他是爱咬靴子的家伙，他是喜欢弄坏桶的家伙。虽然如此，但是leo还是很爱monster，因为leo可以和monster一起看电视，一起跳舞，一起睡觉。
+	Teeny 和 Ducky、Bella、JOJO、Gyuri开车去水上乐园，路程非常长，小伙伴非常无聊，玩起说单词游戏，把路上看到的东西都说出来。不知不觉中，就到达了终点~
+	
 2. 重点单词 & 句型
 	- 重点单词：bored, sleepy, cloud(s), truck(s), bicycle(s), tunnel(s), kite(s), dragonfly(dragonflies), water park(s), airplane(s), tree(s)
 	- 句型: 
 		- are we there yet? not yet/just wait
 		- what do you see? i see a/an
+	
 3. 拓展
 	（1）根据封面猜一猜：
-	- What is Ducky doing?
-	- Where is it driving?
+	- Where is Ducky driving to？
+	- what happens on the way？
 	（2）看内容可以互动：
-	- what will leo doing？fishing（taking fishing rod）->leo love fishing
-	- Who is hiding in the grass?  Bella、JOJO
-	- What else did they do while watching the tv? eating snacks
+	- What did you see along the way?
+		- mountain，sun，cloud，truck，car
+		- bakery
 	（3）看完的理解：
-	- who：leo
-	- why：
-	1. Why is Leo called a puppy monster?  
-	2. Why does Leo love puppies? 
+	- who：Teeny 和 Ducky、Bella、JOJO、Gyuri
+	- what：drive to water park， play game
