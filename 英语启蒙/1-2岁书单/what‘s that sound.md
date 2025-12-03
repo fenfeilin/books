@@ -9,10 +9,12 @@
 	
 3. 拓展
 	（1）根据封面猜一猜：
-	- When to wash your hands？
-		- Wash hands before eating and after returning home.
-	（2）看完的理解：
-	- who：JOJO
-	- what：wash hand
-	- when: After using the restroom and eating
-	- how：Wet hands, apply soap, scrub for 20 seconds, rinse thoroughly, and dry with a clean towel.
+	- what happen in the room?
+	（2）看内容可以互动：
+	- There are a lot of snacks on the ground->leo is eating
+	- the clothes have been blown away->jojo is jumping
+	- look at the shadow on the ground->leo taking bath
+	- in bathroom, in laundary, in bathroom, in kitchen
+	（3）看完的理解：
+	- who：Ducky、Gyuri
+	- what：Leo eats，jojo jumps，leo takes bath, bella cooks

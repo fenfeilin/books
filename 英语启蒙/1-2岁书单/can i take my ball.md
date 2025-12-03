@@ -10,12 +10,14 @@
 	
 3. 拓展
 	（1）根据封面猜一猜：
-	- What is the duck going to do with the basket ?
+	- What is the duck going to do with the basket ? maybe for a picnic
 	（2）看内容可以互动：
-	- toy car，badminton racket，inflatable wagon
+	- Gyuri has many toys.  (p1) toy car，badminton racket(羽毛球拍)，inflatable wagon(充气小车)
 	（3）看完的理解：
 	- who：Ducky、Gyuri
 	- what：
 		- Going on a picnic
 		- they have lot of things to bring
-		- How should they carry them？
+		- How should they carry them？ a wagon
+		- Is this wagon big or small?
+		- Do you think Gyuri'll bring this much stuff next time?

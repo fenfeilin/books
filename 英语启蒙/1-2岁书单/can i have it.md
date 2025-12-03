@@ -20,5 +20,5 @@
 	（3）看完的理解：
 	- who：bella、tenny 和 Gyuri
 	- where：zoo
-	- why：Why can't Gyuri bring animals home?
-	- what：What did Gyuri bring home?
+	- why：Why can't Gyuri bring animals home? the animal need to live in the zoo
+	- what：What did Gyuri bring home? a toy tiger

@@ -11,9 +11,9 @@
 	
 3. 拓展
 	（1）根据封面猜一猜：
-	- Can you guess what this was built with blocks?
+	- Can you guess what they build with the blocks?
 	（2）看内容可以互动：
-	- can i play it？
+	- can i play it？can i touch it?
 	（3）看完的理解：
 	- who：JOJO
 	- what：What can Jojo break, and what can't Jojo break?

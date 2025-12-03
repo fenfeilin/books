@@ -18,8 +18,8 @@
 	（3）看完的理解：
 	- who：leo
 	- why：
-	1. Why is Leo called a puppy monster?  
-	2. Why does Leo love puppies? 
+	1. Why is Leo called a puppy monster?  licking monster,boot monster,bucket monster
+	2. Why does Leo love puppies? watch tv, dance, sleep with him
 	
 	
 	

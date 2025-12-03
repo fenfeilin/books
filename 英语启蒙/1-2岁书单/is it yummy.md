@@ -12,5 +12,12 @@
 	（1）根据封面猜一猜：
 	- What is in the box?
 	（2）看内容可以互动：
-	- toy car，badminton racket，inflatable wagon
+	- pizza ->salty
+	- cotton candy->sweet, soft, big
+	- cake->sweet, soft, big
+	- chocolate->sweet, hard
+	- cookie->sweet, hard, small
 	（3）看完的理解：
+	- How many times did you guess? 5
+	- Did they guess right in the end? yes
+	- Is the food delicious? They didn't eat, ice cream melted
