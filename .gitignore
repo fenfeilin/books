@@ -5,3 +5,9 @@
 
 # Ignore Smart Environment folder
 .smart-env
+
+# Sensitive local asset-management notes
+资产管理.md
+06_资产管理/
+03_Resource(资料库)/3.7_资产管理/
+managemonkey-reports/
