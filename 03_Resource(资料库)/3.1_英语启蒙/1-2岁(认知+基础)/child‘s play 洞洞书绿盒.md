@@ -13,6 +13,25 @@
 - 这类书适合做启动和过渡，不要硬追规则。
 - 重点观察孩子是否愿意把书里的词带到真实场景。
 
+## 2岁3个月用法
+
+`Mary Had a Little Lamb` 可以继续做睡前低压力暖场。孩子能一起找 `lamb`，说明童谣、重复句和找图仍然是高接受入口；看到游乐场小船旋转页时把小船理解成 `swimming pool` 并说出 `swimming`，说明他会用已有生活经验解释画面，但交通/游乐设施/水池的概念边界还需要成人温和补充。
+
+带读时不要纠正成考试，可以这样接：
+
+- `Yes, it looks like water.`
+- `It is a little boat.`
+- `The boat goes round and round.`
+- `Where is the lamb?`
+- `The lamb is here.`
+- `Mary has a little lamb.`
+
+后续如果孩子继续对船/水有兴趣，可从资料库里接 [[兰登分级1]] 的 `Boats` 或洗澡小船玩法；如果只是喜欢童谣，就继续把它当 2 分钟状态入口。
+
+## 阅读轨迹（按月龄）
+
+- [[2岁3个月 记录]]：`Mary Had a Little Lamb` 可进入睡前共读/唱读；孩子能找 `lamb`，并把游乐场小船画面联想到 `swimming pool / swimming`。下阶段适合用 `lamb / boat / round and round / swimming` 做温和扩展，不把这本升级成主线精读。
+
 ## 来源线索
 - 用户原始记录：官方指导年龄0-6岁
 - 公开资料：公开资料常见描述：翻翻/机关/场景类互动书，强调低龄宝宝的参与感。

@@ -11,3 +11,8 @@
 06_资产管理/
 03_Resource(资料库)/3.7_资产管理/
 managemonkey-reports/
+
+# Large local binaries/models (>10MB)
+04_ai笔记/工具/音频转写/bin/ffmpeg
+04_ai笔记/工具/音频转写/models/ggml-base.bin
+04_ai笔记/工具/音频转写/models/ggml-base.en.bin

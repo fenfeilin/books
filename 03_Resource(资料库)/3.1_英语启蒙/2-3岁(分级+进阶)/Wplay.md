@@ -2,7 +2,7 @@
 
 ## 资料说明
 
-这篇是《W-play 词汇妙趣国》的家庭自用备课整理，重点放在选书判断、亲子带读路径、分册玩法和发文思路。不要照搬内部课程逐字脚本公开发布，小红书内容建议只写自己的阅读观察、孩子反馈和原创互动玩法。
+这篇是《W-play 词汇妙趣国》的家庭自用备课整理，依据 12 个英文情景剧音频重新校对，重点放在选书判断、亲子带读路径、分册玩法和发文思路。音频转写只作为备课底稿，不保留逐字稿；小红书内容建议只写自己的阅读观察、孩子反馈和原创互动玩法。
 
 ## 1. 这套书总体讲什么、难度是什么、适合怎么读
 
@@ -17,22 +17,22 @@
 - 5 本主题词汇游戏书
 - 目标是把 250+ 核心词汇和 600+ 生活词汇放进真实场景里反复使用
 
-12 本故事主线围绕 Gyuri、Leo、Bella、Jojo、Ducky、Teeny 等角色展开，每本都对应一个职业或社会角色：
+12 本故事主线围绕 Gyuri、Leo、Bella、Jojo、Ducky、Teeny 等角色展开，每本都对应一个职业或社会角色。音频版的共同特点是：开头用一个真实任务把孩子带进场景，中间不断做“选择/找物/核对/模仿”，结尾用一个小笑点或任务完成来收束。
 
-| 分册 | 主题 | 主要认知 |
-|---|---|---|
-| Gyuri the Police Officer | 警察帮 Leo 找包 | 场所、颜色、时间、食物、物品丢失 |
-| Bella the Doctor | 医生给 Jojo 看病 | 身体部位、症状、感受、形状、就医流程 |
-| Teeny the Singer | 歌手表演 | 天气、动作、数字、零食、歌曲律动 |
-| Ducky the Photographer | 摄影师拍照 | 表情、游乐设施、动作、现在进行时 |
-| Leo the Farmer | 农夫一天 | 农场动物、蔬果、衣物、容器、采摘 |
-| Gyuri and His Band | 乐队参加游行 | 乐器、声音、服饰、动作、parade |
-| Gyuri the Firefighter | 消防员出警 | 火灾安全、房间、车辆、装备、求助 |
-| Leo the Delivery Man | 快递员送包裹 | 运动用品、洗漱用品、餐具、清单核对 |
-| Jojo the Repairman | 修理工上门维修 | 家具家电、汽车零件、玩具、工具、修理 |
-| Jojo the Fisherman | 渔夫去钓鱼 | 渔具、水上交通、海洋动物、沉浮实验 |
-| Ducky the Chef | 厨师开披萨店 | 点餐、食物、饮品、烹饪动作、菜单 |
-| Jojo the Camper | 露营计划 | 日历、星期、露营、昆虫、自然、未来计划 |
+| 音频 | 分册 | 主线任务 | 主要认知 |
+|---|---|---|---|
+| 01 | Gyuri and His Band | 朋友们看到 parade，决定组成乐队参加 | 乐器、服饰、动作、表演 |
+| 02 | Jojo the Camper | Jojo 看日历知道 Friday 要去 camping，大家搭帐篷、找虫、游泳、吃晚餐 | 星期、露营地点、自然、昆虫、活动顺序 |
+| 03 | Ducky the Photographer | Ducky 给朋友拍照，从表情照到合照，提醒大家不要乱动 | 表情、拍照口语、动作、现在进行时 |
+| 04 | Gyuri the Firefighter | 闻到 smoke，确认来自 garden，打电话给 fire station，消防员出动 | 房间/地点、消防装备、车辆让路、安全求助 |
+| 05 | Jojo the Repairman | Jojo 上门维修 broken chair、flat tire、broken robot | 家具、车部件、玩具、问题描述、修理流程 |
+| 06 | Leo the Farmer | Leo 带 Jojo 农场工作：穿工作服、喂动物、挤奶、采蔬果、搬运 | 农场动物、衣物、蔬果、容器 |
+| 07 | Teeny the Singer | Teeny 登台唱歌，带大家唱天气歌、动作歌和数数返场 | 天气、动作、数字、律动 |
+| 08 | Jojo the Fisherman | 朋友们想吃鱼，准备渔具坐船出海，钓到海洋动物和海洋垃圾 | 渔具、水上交通、海洋动物、环保拓展 |
+| 09 | Bella the Doctor | Jojo 不舒服去看医生，检查哪里痛、感觉如何、眼耳鼻口，最后打针并选贴纸 | 身体部位、感受、症状、形状、就医流程 |
+| 10 | Ducky the Chef | Ducky 开披萨店，朋友们点不同口味披萨和饮品 | 点餐、食物、饮品、烹饪动作、菜单 |
+| 11 | Leo the Delivery Man | Leo 送包裹，每一单都要核对清单，缺 glove、mirror、cup | 运动用品、洗漱用品、餐具、清单核对 |
+| 12 | Gyuri the Police Officer | 有人丢了 bag，警察通过地点、同伴、时间、颜色和包里物品帮忙找 | 场所、颜色、时间、食物、物品丢失 |
 
 ### 难度判断
 
@@ -42,7 +42,7 @@
 
 - **词汇密度高**：每本不只讲一个主题，而是故事书 + 贴纸书 + 词汇游戏书联动，单本会牵出好几组词汇。
 - **认知跨度大**：警察局、快递、维修、消防、餐厅点餐、露营计划等场景，需要孩子有一定生活经验，太早读会卡在认知上。
-- **句型更进阶**：除了 `Can you find...?`，还会出现 `What happened?`、`Where should he go?`、`What would you like...?`、`What will they do...?`、`What did he get?` 这类问答和时态输入。
+- **句型更进阶**：除了 `Can you find...?`，还会出现 `Where did you lose it?`、`What day is it today?`、`What should we take?`、`What would you like to drink?`、`How do we carry the fruit?` 这类问答和时态输入。
 
 适龄建议：
 
@@ -124,6 +124,14 @@
 - 消防员：玩具车、路障，练 `Clear the way.`、`Put out the fire.`
 - 露营：小帐篷、手电筒，练 `Let's put up the tent.`、`What will we do next?`
 
+### 音频怎么用
+
+音频是英文情景剧，不适合当“逐字背诵材料”，更适合拿来做语感和场景预热。
+
+- **读前 1 遍**：先听开头和主线，让孩子知道今天是谁、在做什么职业任务。
+- **读中停顿**：听到重复选择时暂停，比如 `What should I wear?`、`Which ones?`、`What kind of pizza?`，让孩子指图或说一个词。
+- **读后复现**：不重播整段，直接拿道具演一遍。孩子能说出一个关键词或一个短句，就算这次输入落地了。
+
 ### 一次带读的标准流程
 
 #### 0-2 分钟：封面预热
@@ -188,101 +196,103 @@
 
 ### 12 本分册带读备课表
 
-#### 1. Gyuri the Police Officer
+下面按音频编号整理。实际亲子共读不用按这个顺序推进，仍然优先选孩子最近有生活经验的主题。
 
-- **内容简介**：Leo 以为自己的包丢了，警察 Gyuri 通过地点、同伴、时间、颜色、包里物品一步步帮他回忆，最后发现包一直在身上。
-- **核心词汇**：police station, post office, restaurant, hospital, bakery, toy shop, market, bag, brown, food.
-- **核心句型**：`I lost my...` / `Did you lose it in/at...?` / `What color is it?` / `What's in your bag?`
-- **带读重点**：这本可以练“丢东西”场景，但不要一上来讲时间。2 岁前半段先抓地点和颜色，2 岁半后再加 `When did you lose it?`
-- **生活游戏**：故意把一个小玩具藏起来，家长当警察问：`Did you lose it on the sofa?` 孩子找到后说 `Here it is.`
+#### 1. Gyuri and His Band
 
-#### 2. Bella the Doctor
+- **内容简介**：朋友们看到 parade，决定组成乐队参加。大家先选乐器，再选演出服和舞蹈动作。Jojo 不会乐器，但发现自己可以杂耍，最后大家一起准备出发。
+- **核心词汇**：parade, trumpet, accordion, cymbals, drum, tambourine, ball, egg, tomato, onion, watermelon, vest, tie, crown, cape, hat, turn, shake, kick, jump, stomp.
+- **核心句型**：`Let's join the parade.` / `What instruments should we play?` / `I will play the...` / `What should we wear?` / `We need dance moves.`
+- **带读重点**：parade 对低幼不直观，可以解释成“大家边走边表演的队伍”。这本不要当成单词表读，重点是让孩子听乐器声、敲节奏、做动作。
+- **生活游戏**：锅、勺、铃铛当乐器，家长说 `I will play the drum.`，孩子选择自己的乐器；再排队走一圈，说 `Let's join the parade.`
 
-- **内容简介**：Jojo 雪天吃冰淇淋后不舒服，朋友带他去 Bella 的诊所。Bella 检查眼睛、耳朵、鼻子、嘴巴，发现感冒发烧，还给他贴了创可贴。
-- **核心词汇**：doctor, hospital, head, neck, stomach, knee, foot, fever, cough, runny nose, medicine, band-aid.
-- **核心句型**：`What's wrong?` / `How do you feel?` / `Does your head hurt?` / `Let me look at your...`
-- **带读重点**：这是最适合低幼进入的一本。身体部位、感受和医生游戏都很贴近日常。
-- **生活游戏**：家长拿玩偶当病人，孩子当医生。先问 `What's wrong?`，再检查 `eyes/ears/mouth`，最后说 `Hope you get well soon.`
+#### 2. Jojo the Camper
 
-#### 3. Teeny the Singer
+- **内容简介**：Jojo 看日历知道今天是 Friday，朋友们要去 camping。到达户外后，他们先看 sky、sun、clouds、mountains、flowers，再选择搭帐篷的位置：cave 太黑，lake 边太湿，tree 上太高，最后找到合适的位置。之后大家 bug hunting、swimming、吃 dinner。
+- **核心词汇**：calendar, Friday, camping, sky, sun, clouds, mountains, flowers, tent, cave, lake, tree, bug, dragonfly, butterfly, ant, spider, fish, marshmallow, sausage, corn.
+- **核心句型**：`What day is it today?` / `Today we will go camping.` / `Let's put up the tent.` / `Where?` / `What should we do now?`
+- **带读重点**：这是偏进阶的一本，难点不在单词，而在“计划 + 顺序 + 地点选择”。2 岁前半段先玩帐篷和虫子；2 岁半后再加星期和 `will`。
+- **生活游戏**：用被子搭帐篷，找三个地点让孩子判断：`Is it dark/wet/high?` 再用手电筒找昆虫卡，最后摆出 `fish / corn / sausage` 当晚餐。
 
-- **内容简介**：Teeny 登台唱歌，围绕天气、动作和零食唱几首节奏感强的歌，孩子可以边听边做 walk、hop、run、stomp。
-- **核心词汇**：sunny, windy, rainy, snowy, walk, hop, run, stomp, jelly, candy, sausage, popcorn.
-- **核心句型**：`How's the weather?` / `Do you like rainy days?` / `What are you doing?` / `I am hopping.`
-- **带读重点**：这本不必讲成故事，直接当音乐律动书用。动作词要让孩子站起来做。
-- **生活游戏**：天气卡 + 动作指令。家长说 `It's rainy. Stomp, stomp, stomp.` 孩子做动作。
+#### 3. Ducky the Photographer
 
-#### 4. Ducky the Photographer
+- **内容简介**：Ducky 当摄影师，先问朋友 `May I take a photo of you?`，引导大家做 surprised、angry、funny、happy 等表情。最后拍合照时，有人 scratch、shake，Ducky 提醒 `Please don't move.`，照片就变成了好笑的收尾。
+- **核心词汇**：photographer, camera, photo, surprised, angry, funny, happy, shiny, pretty, scratch, shake, move.
+- **核心句型**：`May I take a photo of you?` / `Please make a happy face.` / `One, two, three.` / `May I take a photo of you together?` / `Please don't move.`
+- **带读重点**：这是最适合练表情和现在进行时的一本。不要讲语法，直接问 `What face?`、`What is he doing?`，让孩子用脸和身体回应。
+- **生活游戏**：拍照游戏。家长举手机说 `Make a funny face.`、`Please don't move.`，拍完给孩子看：`You look happy/funny.`
 
-- **内容简介**：Ducky 拿到相机，在公园给朋友拍照。Bella 练不同表情，Leo 玩游乐设施，Jojo 做动作，最后大家一起合照却因为乱动拍出搞笑照片。
-- **核心词汇**：camera, photo, happy, angry, surprised, funny, swing, slide, see-saw, monkey bars, yawn, scratch, shake.
-- **核心句型**：`May I take a photo of you?` / `What face does Bella make?` / `What is Jojo doing?`
-- **带读重点**：非常适合练表情和现在进行时。不要抽象讲语法，就问“他正在做什么”。
-- **生活游戏**：拍照游戏。家长说 `Make a happy face.`、`Please don't move.`，孩子摆表情。
+#### 4. Gyuri the Firefighter
 
-#### 5. Leo the Farmer
+- **内容简介**：有人做了 scary dream，随后闻到 smoke。大家从 bedroom、bathroom、kitchen、living room 找到 garden，马上打电话给 fire station。Gyuri 穿上 boots、coat、helmet、gloves，检查 fire truck 上的 ladder、hose、rope，路上请车辆让路，最后赶到 garden 处理烟火。
+- **核心词汇**：firefighter, smoke, bedroom, bathroom, kitchen, living room, garden, fire station, boots, coat, helmet, gloves, ladder, hose, rope, truck, motorcycle, bus, taxi.
+- **核心句型**：`Are you okay?` / `I smell smoke.` / `Where is the smoke from?` / `Call the fire station.` / `Clear the way, please.` / `Stand back.`
+- **带读重点**：这本可以做安全教育，但低幼阶段语气要稳，不要制造恐惧。重点放在“闻到烟要找大人/打电话/站远一点”，而不是渲染火灾。
+- **生活游戏**：玩具消防车出动。孩子给车让路说 `Clear the way, please!`，到达后家长说 `Stand back.`，再用积木当水管 `put out the fire`。
 
-- **内容简介**：Leo 带 Jojo 在农场工作：穿工作服、喂动物、挤牛奶、摘蔬菜水果，再用篮子和箱子搬运。
-- **核心词汇**：farm, rooster, shirt, overalls, boots, pig, cow, horse, rabbit, goat, chicken, pumpkin, carrot, sweet potato, apple, pear, grapes, basket, box.
-- **核心句型**：`It's time to...` / `What should I wear?` / `Feed the...` / `How can we carry...?`
-- **带读重点**：词汇很多，分三次读：第一次动物，第二次蔬果，第三次衣服和容器。
-- **生活游戏**：用玩具动物和积木当农场，孩子负责 `feed the animals`，再把水果放进 `basket/box`。
+#### 5. Jojo the Repairman
 
-#### 6. Gyuri and His Band
+- **内容简介**：Jojo 当 repairman，上门问 `Do you need help?` 和 `What's the problem?`。三次维修分别是 broken chair、flat tire、broken robot，每次都用 `Don't worry. I'll fix it.` 和 `All done.` 收束。
+- **核心词汇**：repairman, broken, chair, sofa, telephone, fan, television, lamp, clock, window, mirror, door, wiper, light, tire, robot, airplane, train, doll, computer, camera.
+- **核心句型**：`Do you need help?` / `What's the problem?` / `My chair is broken.` / `I have a flat tire.` / `Don't worry. I'll fix it.` / `All done.`
+- **带读重点**：这本的结构非常适合输出，因为每一段都像一次服务电话。工具词可以少讲，先让孩子听懂“哪里坏了”和“我来修”。
+- **生活游戏**：准备一个“坏掉”的积木车或松掉的椅子，孩子当 repairman。家长说 `My car is broken.`，孩子回应 `Don't worry. I'll fix it.`
 
-- **内容简介**：朋友们看到夏日游行通知，决定组成乐队参加。大家选择乐器、服装和舞蹈动作，Jojo 虽然不会乐器，但可以杂耍。
-- **核心词汇**：parade, trumpet, accordion, cymbals, drum, tambourine, hat, crown, vest, tie, turn, shake, kick, jump, stomp.
-- **核心句型**：`What can you play?` / `I will play the...` / `What sound does it make?` / `Let's join the parade.`
-- **带读重点**：parade 这个概念不常见，先用“大家排队边走边表演”解释。重点放在乐器声音和动作模仿。
-- **生活游戏**：锅、勺、铃铛当乐器，家长问 `What instrument are you playing?` 孩子敲一敲、摇一摇。
+#### 6. Leo the Farmer
 
-#### 7. Gyuri the Firefighter
+- **内容简介**：Leo 叫 Jojo 起床去 farm 工作。先选择该穿什么，最后穿 shirt、overalls、boots；再喂 cows、horses、pigs、rabbits、chickens、goats、ducks；然后 milk the cows、pick vegetables、pick fruit，最后用 basket 和 box 搬运。
+- **核心词汇**：farm, shirt, overalls, boots, raincoat, swimsuit, pajamas, slippers, cow, horse, pig, rabbit, chicken, goat, duck, pumpkin, sweet potato, carrot, grapes, apple, pear, basket, box.
+- **核心句型**：`It's time to work on the farm.` / `What should I wear?` / `Let's feed the animals.` / `Which ones?` / `Let's pick some vegetables/fruit.` / `How do we carry the fruit?`
+- **带读重点**：词汇很多，建议分三次读：第一次衣物选择，第二次农场动物，第三次蔬果和容器。孩子状态好再把三段串成“一天的农场工作”。
+- **生活游戏**：玩具动物排队，孩子负责 `feed the cows/horses/pigs`。再把水果玩具放进 `basket` 和 `box`，练 `How do we carry them?`
 
-- **内容简介**：Leo 梦到大火，醒来后闻到烟味，大家查找烟从哪里来，打电话给消防站。Gyuri 穿装备、检查消防车、请路上车辆让路，最后发现烟来自 Jojo 的烧烤。
-- **核心词汇**：firefighter, smoke, fire station, bedroom, kitchen, bathroom, living room, garden, helmet, gloves, hose, ladder, truck, bus, taxi.
-- **核心句型**：`Where is the smoke from?` / `Call the fire station.` / `Clear the way.` / `Put out the fire.`
-- **带读重点**：可以顺手做安全教育，但语气不要吓孩子。用玩具车和路障讲“让路”“救援”更容易懂。
-- **生活游戏**：玩具消防车出动，孩子喊 `Clear the way!`，到达后用积木水管 `put out the fire`。
+#### 7. Teeny the Singer
 
-#### 8. Leo the Delivery Man
+- **内容简介**：Teeny 登台表演，先自我介绍 `I like to sing.`，再唱天气歌，问观众喜欢 sunny、windy、rainy、snowy 哪一种天气；接着带大家做 walking、hopping、running、stop 等律动，最后数到 10 返场。
+- **核心词汇**：singer, show, sunny, windy, rainy, snowy, walking, hopping, running, stop, count, one-ten.
+- **核心句型**：`Welcome to the show.` / `I like to sing.` / `How's the weather?` / `What weather do you like?` / `Follow me.` / `Let's count to ten.`
+- **带读重点**：这本不必讲成完整故事，直接当音乐律动书用。动作词要站起来做，天气词可以配天气卡或窗外观察。
+- **生活游戏**：天气卡 + 动作指令。家长抽到 sunny 就说 `It's sunny. Walking, walking.`，抽到 rainy 就说 `Stomp, stomp.`，最后一起数到 10 返场。
 
-- **内容简介**：Leo 骑摩托送包裹，路上掉了手套、镜子和杯子。每送到一家，就根据清单核对包裹物品，Jojo 在后面捡起掉落的物品追赶他。
-- **核心词汇**：delivery, package, list, cap, socks, uniform, baseball, bat, glove, toothbrush, toothpaste, towel, soap, mirror, spoon, fork, knife, chopsticks, cup.
-- **核心句型**：`This is for you.` / `What's in the package?` / `Can you find...?` / `There is no...`
-- **带读重点**：这本词汇非常密，睡前容易读崩。建议只玩“包裹清单核对”，每次只送一家。
-- **生活游戏**：准备三个纸盒，分别装运动用品、洗漱用品、餐具。孩子当快递员敲门说 `This is for you.`
+#### 8. Jojo the Fisherman
 
-#### 9. Jojo the Repairman
+- **内容简介**：朋友们想吃 fish，于是跟 Jojo 去 fishing。大家准备 fishing rods、buckets、nets、chairs、worms，选择坐 boat 出海。原本想抓 shark、puffer fish、turtle、whale 等，结果先钓到 starfish、jellyfish、seaweed、cell phone、bottle、shoe，最后 Jojo 尾巴一动，拉出 squid、lobster、shrimp、fish、octopus、crab 等一大堆海鲜。
+- **核心词汇**：fishing rod, bucket, net, chair, worm, boat, yacht, raft, submarine, shark, puffer fish, turtle, whale, starfish, jellyfish, seaweed, cell phone, bottle, shoe, squid, lobster, shrimp, octopus, crab.
+- **核心句型**：`Let's go fishing.` / `We're ready to go.` / `What should we take?` / `What do you want to catch?` / `I got a...` / `You got a lot.`
+- **带读重点**：海洋动物太多，不要一次讲完。可以分成四类：渔具、水上交通、想抓的动物、真正钓到的东西。钓到 bottle、shoe、cell phone 时，顺手做海洋垃圾拓展。
+- **生活游戏**：磁力钓鱼或纸鱼钓鱼。每钓一个就说 `I got a fish/starfish/bottle.`，垃圾类放到“trash”区，海洋动物放回“sea”区。
 
-- **内容简介**：Jojo 当修理工，先帮 Bella 修椅子，再帮 Leo 给轮胎打气，最后帮 Gyuri 修机器人。
-- **核心词汇**：repairman, broken, chair, sofa, telephone, fan, television, clock, lamp, car, door, mirror, window, wiper, tire, robot, drill, pump, screwdriver.
-- **核心句型**：`Do you need help?` / `What's the problem?` / `Is your chair broken?` / `I can fix it.` / `All done.`
-- **带读重点**：这本偏生活功能词，理解难点在“什么坏了、用什么修”。可以用真实家电家具找一找，但不要让孩子操作危险工具。
-- **生活游戏**：准备一个“坏掉”的积木车，轮子拆下来。孩子找 `tire`，装回去后说 `I fixed it.`
+#### 9. Bella the Doctor
 
-#### 10. Jojo the Fisherman
+- **内容简介**：Jojo 觉得不舒服，朋友带他去看 Bella 医生。Bella 先问 `What's wrong?`，再确认 head、neck、stomach、knee、foot 哪里 hurt，接着问 dizzy、itchy、tired、cold、hot，检查 eyes、ears、nose、mouth，判断是 cold，需要 medicine 和 shot。打完针后，Jojo 选了一个 star 贴纸。
+- **核心词汇**：doctor, head, neck, stomach, knee, foot, dizzy, itchy, tired, cold, hot, eyes, ears, nose, mouth, fever, cough, medicine, shot, triangle, heart, square, circle, diamond, star.
+- **核心句型**：`What's wrong?` / `I feel sick.` / `What hurts?` / `My head hurts.` / `How do you feel?` / `Let me take a look.` / `Don't worry.` / `It's done.`
+- **带读重点**：这是最适合低幼进入的一本。身体部位、冷热感受、医生检查都贴近日常；`shot` 如果孩子害怕，可以用“医生贴纸奖励”来轻轻收尾。
+- **生活游戏**：孩子当医生给玩偶检查。先问 `What's wrong?`，再摸额头说 `You feel hot.`，最后贴一颗星星说 `Good job.`
 
-- **内容简介**：朋友们想吃鱼，于是跟 Jojo 去钓鱼。他们准备鱼竿、桶、网、椅子和虫子，坐船出海。大家想钓不同海洋动物，结果钓到海星、水母、海草、鞋子、瓶子等，最后 Jojo 的尾巴夹住了螃蟹，还收获很多海鲜。
-- **核心词汇**：fishing rod, bucket, net, chair, worm, boat, yacht, raft, submarine, shark, puffer fish, turtle, seahorse, whale, starfish, jellyfish, crab, shrimp, squid, lobster, octopus.
-- **核心句型**：`What do we need for fishing?` / `What do you want to catch?` / `He got...` / `They shouldn't be in the sea.`
-- **带读重点**：海洋动物多，建议用分类法：渔具、水上交通、海洋动物、海洋垃圾。
-- **生活游戏**：磁力钓鱼或纸鱼钓鱼。加一个沉浮实验：`Will it float or sink?`
+#### 10. Ducky the Chef
 
-#### 11. Ducky the Chef
+- **内容简介**：Ducky 开了 Yum Yum Pizza House。朋友们点 banana pizza、carrot pizza 和一个 everything pizza，还选择 strawberry juice、orange juice、soda、milk 等饮品。每次做披萨都重复 sauce、topping、cheese，最后端上桌。
+- **核心词汇**：chef, pizza house, order, shrimp, mushroom, carrot, potato, spinach, banana, sauce, cheese, strawberry juice, orange juice, soda, milk.
+- **核心句型**：`May I take your order?` / `Not yet.` / `I'd like a...` / `What would you like to drink?` / `What kind of pizza?` / `Here's your...`
+- **带读重点**：这是 2 岁半后非常好玩的输出书。孩子不需要完整句，先能说 `banana pizza, please` 或 `I'd like pizza.` 就很好。
+- **生活游戏**：开餐厅。家长画一个菜单，孩子点餐；或者孩子当服务员问 `May I take your order?`，家长回答 `I'd like a carrot pizza.`
 
-- **内容简介**：Ducky 开了一家披萨店，Teeny 当服务员。朋友们点不同口味的披萨和饮品，Ducky 擀面团、抹酱、撒芝士、放进烤箱。Leo 最后点了一个什么都有的大披萨。
-- **核心词汇**：chef, waitress, restaurant, menu, pizza, shrimp, mushroom, carrot, potato, spinach, banana, cheese, tomato sauce, dough, oven, juice, soda, milk.
-- **核心句型**：`May I take your order?` / `What would you like to eat?` / `I'd like...` / `What kind of pizza would you like?` / `Enjoy your meal.`
-- **带读重点**：这是 2 岁半后非常好玩的输出书。孩子不需要会完整句，先能说 `I'd like pizza.` 就很好。
-- **生活游戏**：开餐厅。家长给菜单，孩子点餐；或者孩子当服务员问 `May I take your order?`
+#### 11. Leo the Delivery Man
 
-#### 12. Jojo the Camper
+- **内容简介**：Leo 做 delivery service，每到一家都说 `This is for you.`，然后和收件人一起核对包裹。第一单运动用品缺 glove，第二单洗漱用品缺 mirror，第三单餐具缺 cup。最后 Jojo 把掉出来的 glove、mirror、cup 都找回来了。
+- **核心词汇**：delivery, package, cap, socks, uniform, baseball, bat, glove, toothbrush, toothpaste, brush, towel, toilet paper, soap, mirror, spoon, fork, knife, chopsticks, napkin, cup.
+- **核心句型**：`Leo's delivery service.` / `This is for you.` / `There's no...` / `No...? Wait a minute.` / `Here's a...` / `Is it okay?`
+- **带读重点**：这本词汇非常密，睡前容易读崩。建议只玩“包裹清单核对”，每次只送一家。重点不是背完餐具，而是听懂“少了什么、找到了什么”。
+- **生活游戏**：准备三个纸盒，分别装运动用品、洗漱用品、餐具。孩子当快递员敲门说 `This is for you.`，家长故意说 `There's no cup.`，孩子去找。
 
-- **内容简介**：Jojo 看日历知道今天要露营，朋友们去野外搭帐篷、找昆虫、游泳、烧烤，晚上一起看星星。
-- **核心词汇**：calendar, Friday, camping, backpack, field, sunny, cloud, mountain, grass, flower, tent, cave, lake, tree, dragonfly, butterfly, ant, spider, barbecue, star.
-- **核心句型**：`What day is it today?` / `What will they do today?` / `Let's put up the tent.` / `What will they do first/next?`
-- **带读重点**：这本是进阶书，涉及星期、计划、顺序和将来时。先讲露营体验，再慢慢引入日历。
-- **生活游戏**：用被子搭帐篷，手电筒找昆虫卡。看日历时说 `We will go to the park on Sunday.`
+#### 12. Gyuri the Police Officer
+
+- **内容简介**：有人哭着来找警察，说 `I lost my bag!`。Gyuri 依次问在哪里丢的、和谁在一起、什么时候丢的、包是什么颜色、包里有什么。最后发现包就在身上，形成一个很低幼的反转笑点。
+- **核心词汇**：police officer, bag, market, restaurant, post office, bakery, hospital, toy shop, red, yellow, blue, green, pink, black, white, brown, candies, oranges, hot dogs, cookies, cherries, rice, yogurt, sandwiches, hamburgers.
+- **核心句型**：`May I help you?` / `I lost my bag.` / `Don't worry. I'll help you.` / `Where did you lose it?` / `Who were you with?` / `When did you lose it?` / `What color is your bag?` / `What's in your bag?`
+- **带读重点**：这本可以练“丢东西”场景，但不要一上来讲时间和过去式。2 岁前半段先抓地点和颜色，2 岁半后再加 `Where did you lose it?`
+- **生活游戏**：故意把一个小玩具藏起来，家长当警察问 `Where did you lose it?`、`What color is it?`，孩子找到后说 `Here it is.`
 
 ### 高复用亲子英语句型库
 
@@ -337,7 +347,7 @@
 - [[1岁12个月 记录]]：挑喜欢的农场、动物、食物主题反复看。
 - [[2岁1个月 记录]]：故事没懂，但单词背得 7788，每天必看一两本。
 - [[2岁2个月 记录]]：成为“难度适中/非常喜欢”的主力书。
-- [[2026-05-12_育儿计划]] 反馈：睡前状态下降时，`delivery man` 只能看 3-4 页；这套仍需挑孩子有生活经验的主题，避免疲劳时硬推进。
+- [[2岁3个月 记录]]：生活场景仍有吸引力，但信息量大的职业主题在疲劳时容易跑；这套仍需挑孩子有生活经验的主题，避免睡前或状态差时硬推进。
 
 ### 阶段判断
 

@@ -13,6 +13,23 @@
 - [[1岁8个月 记录]]：刚买觉得互动性不强，有点难。
 - [[1岁11个月 记录]]：只喜欢其中4本童谣，其他不感兴趣。
 - [[2岁2个月 记录]]：终于熬到“愿意看”的难度适中阶段。
+- [[2岁3个月 记录]]：吃饭时能连续看 7-8 本，生活场景、找图任务和押韵重复句型接受度较好；但当前仍应从“看了多少本”转为“单本能否回答 where / what can you find / what is happening”。
+
+## 2岁3个月亲子拓展
+
+- 找图问题：`What can you find?` / `Where is the ...?` / `Show me the ...`
+- 场景迁移：读 park / town / market / farm 后，马上在家里找同类物品：`I found a cup.` / `I found a ball.` / `Put it on the table.`
+- 二选一降级：`Park or town?` / `Dog or bird?` / `On the blanket or in the pond?`
+- 成人别连续追问。每页只问一次，孩子看图或指对就算有效，再由成人补一句完整表达。
+
+## 同系列下一步候选
+
+- `Find it at the park`：先做找图和位置，适合接户外、游乐场和野餐经验。
+- `Find it around the town`：接街道、超市、邮局、餐厅等生活场景，适合观察 `where`。
+- `Off to market`：颜色和食物混合，可用二选一降低难度。
+- `Food from the farm`：食物来源链条较抽象，只读 2-3 页，抓 `pick / buy / cook / more`。
+- `Peekaboo, Spot`：躲猫猫和位置词适合做 `in / under / behind`，比完整故事更容易迁移。
+- `Up and down`：动作和反义词，可接滑梯、积木塔、上楼下楼。
 
 ---
 翻译：
@@ -853,7 +870,6 @@ So is ball.
 
 Hug is the very best word of all.
 “拥抱”是所有词语里最棒的一个。
-
 
 
 
