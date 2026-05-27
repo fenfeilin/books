@@ -1,0 +1,21 @@
+{
+  "output_dir": "/Users/lisuiting/Downloads/littlebean_audio",
+  "headers": {
+    "X-HB-Client-Type": "xiaobien-mobile",
+    "X-HB-Token": "",
+    "User-Agent": "Mozilla/5.0"
+  },
+  "download": {
+    "audio": true,
+    "video": true,
+    "overwrite": false
+  },
+  "books": [
+    {
+      "url": "https://littlebean.baobaobooks.com/h5/bookdetail/v2?xbe_book_id=换成真实ID&index=1"
+    },
+    {
+      "url": "https://littlebean.baobaobooks.com/h5/bookdetail/v2?xbe_book_id=另一本书的ID&index=1"
+    }
+  ]
+}
