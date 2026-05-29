@@ -16,3 +16,10 @@ managemonkey-reports/
 04_ai笔记/工具/音频转写/bin/ffmpeg
 04_ai笔记/工具/音频转写/models/ggml-base.bin
 04_ai笔记/工具/音频转写/models/ggml-base.en.bin
+
+# Python artifacts (akshare scripts under 06_资产管理 already ignored, these guard other paths)
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
