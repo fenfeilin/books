@@ -1,4 +1,3 @@
-# red light green light
 
 **标签**： #绘本/阅读 #适龄/2-6岁
 

@@ -89,12 +89,12 @@ Animal Coverings, Animal Sounds, Animals Can Move, Applesauce, Bananas Sometimes
 
 - `Where`：优先用来练 `in / on / under`，能和 [[大块积木]]、盒子、书本直接迁移。
 - `I Pick Up`：适合把收纳变成动作语言，练 `pick up / put away / all done`。
-- `What Has These Feet`、`What Has This Tail`：适合从看图猜动物转向理解“局部属于整体”，可直接接 [[toi 1阶拼图]] 的 `same animal / head / body / tail / feet`。
+- `What Has These Feet`、`What Has This Tail`：适合从看图猜动物转向理解“局部属于整体”，可直接接 [[TOI一阶拼图]] 的 `same animal / head / body / tail / feet`。
 - `We Pack a Picnic`、`The Picnic`：适合食物、篮子、拿取和假装野餐，能承接孩子喜欢的喂食动作。
 
 相似难度/相似主题候选：
 
-- [[buddy reader b]]：如果 RAZ B 当天信息量偏大，用重复句型热身，不卡认知。
+- [[Buddy Reader B]]：如果 RAZ B 当天信息量偏大，用重复句型热身，不卡认知。
 - [[Babybug杂志]]：选 1 页生活场景做动作迁移，不追完整一期。
 - [[兰登分级1]]：选 `Bear Hugs`、`I Like Stars`、`I Like Bugs` 等低门槛分册，观察 Step 1 短句能否继续接住。
 - [[大块积木]]：作为 `where / in / on / under / pick up / put away` 的真实操作材料。

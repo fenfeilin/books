@@ -1,4 +1,3 @@
-# a maisy first experiences book what does maisy do小鼠波波生活初体验 波波在干什么
 
 **标签**： #绘本/英语 #适龄/2-4岁 #生活经验
 

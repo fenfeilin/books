@@ -1,6 +1,7 @@
 .obsidian
 .DS_Store
-
+.claude
+.vscode
 
 
 # Ignore Smart Environment folder
